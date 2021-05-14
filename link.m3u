@@ -144,13 +144,23 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157588
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 5 Monde Asie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUFKYLyAOShVN-v_MANZPinYsLXOXSU-VRNQ&usqp=CAU" group-title="Variety",TV 5 Monde
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Channel V HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-5B5l63R7_EiU8_8GcFW1RIaJ0Zk2tiiEw&usqp=CAU" group-title="Variety",Channel V
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Channel V HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="Variety",Channel V
 http://185.180.221.194:8278/streams/d/ChannelV/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Channel V HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-5B5l63R7_EiU8_8GcFW1RIaJ0Zk2tiiEw&usqp=CAU" group-title="Variety",Channel V HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Waku waku japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="Variety", Waku Waku Japan
 http://bonev2.xyz/playlist/usee-wakuwaku-new-bonetv.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Waku waku japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy0QjeDIKfrFl1Sa4rjsqvr3i6CSmsjZfV3g&usqp=CAU" group-title="Variety", Sony GEM
 http://bonev2.xyz/playlist/usee-sgem-new-bonetv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="kbs2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png" group-title="Korea",KBS 2
+http://112.170.47.242:83//klive/api/url.m3u8?m=url&s=wavve&i=K02&q=SD&apikey=OANLA7MNOY
+#EXTINF:-1 tvg-id="" tvg-name="sbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="Korea",SBS
+http://112.170.47.242:83//klive/api/url.m3u8?m=url&s=wavve&i=S01&q=SD&apikey=OANLA7MNOY
+#EXTINF:-1 tvg-id="" tvg-name="mbc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhTP5bpnoN61uId6MJkEXj_cRQE-_75yOnQQ&usqp=CAU" group-title="Korea",MBC
+http://112.170.47.242:83//klive/api/url.m3u8?m=url&s=wavve&i=M01&q=SD&apikey=OANLA7MNOY
+#EXTINF:-1 tvg-id="" tvg-name="tvN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="Korea",tvN Korea
+http://kkhyoyoyo.duckdns.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C00551&q=SD&apikey=0MENK2CJI5
 #EXTINF:-1 tvg-id="Kplus.id" tvg-name="K Plus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO6-C2rrbIluAaPVdHD9RbiSjdpJ4sR7MsXg&usqp=CAU" group-title="Korea",K Plus
 https://nonton.site:8443/6894864475/7163819284/18
 #EXTINF:-1 tvg-id="" tvg-name="MY - KBS World HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2bOi7pMZWu9PKeJ4CoAKd9seCvWnymw5oBA&usqp=CAU" group-title="Korea",KBS World
