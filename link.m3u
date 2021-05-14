@@ -151,20 +151,6 @@ http://bonev2.xyz/playlist/usee-wakuwaku-new-bonetv.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Waku waku japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy0QjeDIKfrFl1Sa4rjsqvr3i6CSmsjZfV3g&usqp=CAU" group-title="Variety", Sony GEM
 http://bonev2.xyz/playlist/usee-sgem-new-bonetv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="tvN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="Korea",tvN
-http://140.238.16.178:9876/stream/channelid/1149467054?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="SBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="Korea",SBS
-http://140.238.16.178:9876/stream/channelid/1830410251?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="KBS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPDpDOKm8PpGUO4PnRC7ApgvCy1CpQtWSrGw&usqp=CAU" group-title="Korea",KBS 1
-http://140.238.16.178:9876/stream/channelid/385162876?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="KBS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png" group-title="Korea",KBS 2
-http://140.238.16.178:9876/stream/channelid/381568252?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAnRvYcKGuyr5KJlyXKCdIh8bh58Jble89-A&usqp=CAU" group-title="Korea",MBC
-http://140.238.16.178:9876/stream/channelid/881740200?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="JTBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCIlj74xQUdsZgeblcv69F7L0VPBzdVICZnA&usqp=CAU" group-title="Korea",JTBC
-http://140.238.16.178:9876/stream/channelid/249357872?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="Mnet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png" group-title="Korea",Mnet
-http://140.238.16.178:9876/stream/channelid/1033480857?profile=pass
 #EXTINF:-1 tvg-id="Kplus.id" tvg-name="K Plus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO6-C2rrbIluAaPVdHD9RbiSjdpJ4sR7MsXg&usqp=CAU" group-title="Korea",K Plus
 https://nonton.site:8443/6894864475/7163819284/18
 #EXTINF:-1 tvg-id="" tvg-name="MY - KBS World HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2bOi7pMZWu9PKeJ4CoAKd9seCvWnymw5oBA&usqp=CAU" group-title="Korea",KBS World
