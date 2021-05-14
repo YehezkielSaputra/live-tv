@@ -147,7 +147,7 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plus
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Channel V HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-5B5l63R7_EiU8_8GcFW1RIaJ0Zk2tiiEw&usqp=CAU" group-title="Variety",Channel V
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8?token=
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Waku waku japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="Variety", Waku Waku Japan
-http://iptvtree.net:8080/test-220471/4008/157598
+http://bonev2.xyz/playlist/usee-wakuwaku-new-bonetv.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Waku waku japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy0QjeDIKfrFl1Sa4rjsqvr3i6CSmsjZfV3g&usqp=CAU" group-title="Variety", Sony GEM
 http://bonev2.xyz/playlist/usee-sgem-new-bonetv.m3u8
 
