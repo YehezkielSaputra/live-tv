@@ -66,7 +66,7 @@ https://kopiku.my.id/inr/hbo.m3u8?channel=red
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="Movie",Star Chinese Movies
 http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="https://www.infotelevisi.com/asset/images/tv/star_chinese_movies_legend.png" group-title="Movie",Star Chinese Movies Legend
-https://nonton.site:8443/6894864475/7163819284/1859
+https://nonton.site:8443/provision/pp/1859
 #EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movie",Thrill
 http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 #EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Movie",Warner TV
@@ -162,7 +162,7 @@ http://112.170.47.242:83//klive/api/url.m3u8?m=url&s=wavve&i=M01&q=SD&apikey=OAN
 #EXTINF:-1 tvg-id="" tvg-name="tvN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="Korea",tvN Korea
 http://kkhyoyoyo.duckdns.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C00551&q=SD&apikey=0MENK2CJI5
 #EXTINF:-1 tvg-id="Kplus.id" tvg-name="K Plus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO6-C2rrbIluAaPVdHD9RbiSjdpJ4sR7MsXg&usqp=CAU" group-title="Korea",K Plus
-https://nonton.site:8443/6894864475/7163819284/18
+https://nonton.site:8443/carl/carl/18
 #EXTINF:-1 tvg-id="" tvg-name="MY - KBS World HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2bOi7pMZWu9PKeJ4CoAKd9seCvWnymw5oBA&usqp=CAU" group-title="Korea",KBS World
 http://185.180.221.194:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyOne.id" tvg-name="Sony ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png" group-title="Korea",Sony ONE
