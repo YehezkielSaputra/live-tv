@@ -104,7 +104,7 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6550_720p/index.m3u8
 #EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Kids",Animax
 http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 #EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="Kids",Aniplus
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6697
+https://nonton.site:8443/provision/pp/37439
 #EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids",Baby First
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7203
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://mncvision.id/userfiles/image/channel/baby_tv.png" group-title="Kids",Baby TV
@@ -120,7 +120,7 @@ http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney Junior" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Kids",Disney Junior
 http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dream Works HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEDvWad4egvRg8Ned0wM36Ewb0syq_8qEqg&usqp=CAU" group-title="Kids",Dream Works
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157610
+https://nonton.site:8443/provision/pp/37456
 #EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="Nick Jr 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nick_Jr._2_logo.png/320px-Nick_Jr._2_logo.png" group-title="Kids",Nick Jr
 http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Kids",Nickelodeon
