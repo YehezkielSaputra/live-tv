@@ -176,6 +176,8 @@ http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY - Oh!K HD" tvg-logo="https://www.ohk-tv.com/img/logo.png" group-title="Korea",Oh!K
 https://nonton.site:8443/carl/carl/37371
 
+#EXTINF:-1 tvg-id="" tvg-name="Hunan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4TmF9zeheajqrX0h1TrfPyJ-nxlItSTGEqA&usqp=CAU" group-title="China",Shenzhen TV
+Shenzhen,http://39.134.24.24/PLTV/88888888/224/3221225764/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hunan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/HunanTV_logo.png" group-title="China",Hunan TV
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001027/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="Dragon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dragon_Television_%28China%29_logo.svg/1200px-Dragon_Television_%28China%29_logo.svg.png" group-title="China",Dragon TV
