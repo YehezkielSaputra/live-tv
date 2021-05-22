@@ -200,6 +200,8 @@ http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVB J2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDsDvGpV_bNRqKwfvYZ7Sf4Heu1tsgZBz8IQ&usqp=CAU" group-title="China",TVB J2
 http://190.2.133.47:8278/streams/d/Jade/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY - TVB J2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1PgsjYjEAFaK83tMckmCimJqUT7N54LuSeA&usqp=CAU" group-title="China",TVB PEARL
+http://50.7.59.216:61980/hls/sz_1004/index.m3u8?key=84797b799ae18d1b
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch163_425_305" group-title="China",TVBS ASIA
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrC5995pAWSj0eu2bwz2o6F29k4sgkG6RkgQ&usqp=CAU" group-title="China", Xing Kong
