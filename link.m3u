@@ -191,7 +191,7 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000001026/index.m3u8?virtualDomai
 #EXTINF:-1 tvg-id="" tvg-name="Phoenix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpXXV3vZDP_-M_itIkkGysxDXZZB42Y48aVQ&usqp=CAU" group-title="China",Phoenix
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Viu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE0ugYtjruTjdFVGt25KvL8cokKV7mkJz60Q&usqp=CAU" group-title="China",Viu
-http://185.207.176.189:8080/channels/tv-99/mpeg.2ts
+http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Chinese Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3kv8pfA4NM0wBmewE4jABFbkUIxZubqVHw&usqp=CAU" group-title="China",Chinese Drama
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVB JADE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1UdSJCmvb5Jh8wCDW0oaq-kbeqBYWugGCIA&usqp=CAU" group-title="China",TVB JADE
@@ -201,7 +201,7 @@ http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVB J2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDsDvGpV_bNRqKwfvYZ7Sf4Heu1tsgZBz8IQ&usqp=CAU" group-title="China",TVB J2
 http://190.2.133.47:8278/streams/d/Jade/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVB J2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1PgsjYjEAFaK83tMckmCimJqUT7N54LuSeA&usqp=CAU" group-title="China",TVB PEARL
-http://50.7.59.216:61980/hls/sz_1004/index.m3u8?key=84797b799ae18d1b
+http://m.567it.com/Pearl.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch163_425_305" group-title="China",TVBS ASIA
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrC5995pAWSj0eu2bwz2o6F29k4sgkG6RkgQ&usqp=CAU" group-title="China", Xing Kong
