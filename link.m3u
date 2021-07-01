@@ -244,7 +244,7 @@ http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHUANG XING HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7r_q8AuAXUVImAf0XCvQJJWjwi77h6YsOtw&usqp=CAU" group-title="Malaysia",ASTRO SHUANG XING
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="QUAN JIA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHX1tjfQXS5X9eCtBxRELtIKS4EJOPcvyIRw&usqp=CAU" group-title="Malaysia",ASTRO QUAN JIA
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AOD 351 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHxPu6VPFfNPiMQ2Yb36FKHNILtSq50RcN4g&usqp=CAU" group-title="Malaysia",ASTRO AOD
 http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AEC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfG8cLpxtZPe3NMLrd7S5knrdJ4ANR0m5W_Q&usqp=CAU" group-title="Malaysia",ASTRO AEC
