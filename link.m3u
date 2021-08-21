@@ -240,7 +240,7 @@ http://117.169.120.140:8080/live/cctv-14/.m3u8
 http://117.169.120.140:8080/live/cctv-15/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="iQIYI HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb_dGXcn_9xRN70fg0LsE-0fjVa6E2p8nZTw&usqp=CAU" group-title="Malaysia",ASTRO iQIYI
-http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHUANG XING HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7r_q8AuAXUVImAf0XCvQJJWjwi77h6YsOtw&usqp=CAU" group-title="Malaysia",ASTRO SHUANG XING
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="QUAN JIA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHX1tjfQXS5X9eCtBxRELtIKS4EJOPcvyIRw&usqp=CAU" group-title="Malaysia",ASTRO QUAN JIA
