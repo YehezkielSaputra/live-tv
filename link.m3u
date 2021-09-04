@@ -8,12 +8,15 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel News Asia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png" group-title="News",Channel News Asia
 http://210.210.155.35:80/session/f902238c-d81b-11eb-8981-c81f66f89318/uq2663/h/h29/01.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227103/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cnn_logo_red_background.png/200px-Cnn_logo_red_background.png" group-title="News",CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW TV Asia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png" group-title="News",DW TV Asia
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227181/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png" group-title="News",France 24
 https://livecdn.fptplay.net/world/france24_hls.smil/chunklist.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227055/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Russia Today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/a/a0/20160830052851%21Russia-today-logo.svg/120px-Russia-today-logo.svg.png" group-title="News",Russia Today
 https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiROS1B-NgSh2_h71UvrK1cYKszzZgZihQg&usqp=CAU" group-title="News",ASTRO AWANI
@@ -140,14 +143,15 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_p
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFnf22GZ9YOwThSvjiqOhWlfFy2G2Sn2RL9Q&usqp=CAU" group-title="Variety",NHK World Japan
 https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227185/03.m3u8
 #EXTINF:-1 tvg-id="ABC.au" tvg-name="TLC HD" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg" group-title="Variety",TLC
 http://103.47.132.164/PLTV/88888888/224/3221227113/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 5 Monde Asie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUFKYLyAOShVN-v_MANZPinYsLXOXSU-VRNQ&usqp=CAU" group-title="Variety",TV 5 Monde
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Channel V HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="Variety",Channel V
-
+http://103.47.132.164/PLTV/88888888/224/3221227133/03.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Channel V HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-5B5l63R7_EiU8_8GcFW1RIaJ0Zk2tiiEw&usqp=CAU" group-title="Variety",Channel V HD
-
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Waku waku japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="Variety", Waku Waku Japan
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/104
 http://topwin-tv.my.id/2/chunklist.m3u8?id=wakuwaku&bandwidth=default&sync=0
@@ -203,10 +207,10 @@ http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 https://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVB J2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1PgsjYjEAFaK83tMckmCimJqUT7N54LuSeA&usqp=CAU" group-title="China",TVB PEARL
 https://cdn.hkdtmb.com/hls/84/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch163_425_305" group-title="China",TVBS ASIA
-http://seb.sason.top/sc/tvbsxw_fhd.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/FTV_Show_Group.png" group-title="China",Formosa TV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=formosa&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrC5995pAWSj0eu2bwz2o6F29k4sgkG6RkgQ&usqp=CAU" group-title="China", Xing Kong
-https://itv.ahcme.edu.cn/hls/startv.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227263/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY - CCTV1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe1g3z00focKBt8EEf737ZBNZKY3CBxXawXQ&usqp=CAU" group-title="China",CCTV 1
 http://39.134.155.133/PLTV/88888888/224/3221225591/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY - CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcosA8Rpb-PL0WD9VXjztKYe3vIfQhcDj6_w&usqp=CAU" group-title="China",CCTV 2
