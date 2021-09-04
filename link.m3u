@@ -20,9 +20,9 @@ https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="Movie",AXN
-http://topwin-tv.my.id/2/master.m3u8?id=axn
+http://103.47.132.164/PLTV/88888888/224/3221227159/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Blue Ant Extreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="Movie",Blue Ant Extreme
-https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/kupjtv.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227319/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png" group-title="Movie",CCM
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movie",Celestial Movies
@@ -32,17 +32,17 @@ http://210.210.155.35:80/dr9445/h/h04/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movie",Cinemax
 http://stream.tvtap.net:8081/live/us-cinemax.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX.id" tvg-name="FOX HD" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" group-title="Movie",FOX
-
+http://103.47.132.164/PLTV/88888888/224/3221227137/03.m3u8
 #EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Movie",FOX Action Movies
-
+http://103.47.132.164/PLTV/88888888/224/3221227121/03.m3u8
 #EXTINF:-1 tvg-id="FOXCrime.id" tvg-name="FOX Crime HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="Movie",FOX Crime
-
+http://103.47.132.164/PLTV/88888888/224/3221227165/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Family Movies ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_410.png" group-title="Movie",FOX Family Movies
-
+http://103.47.132.164/PLTV/88888888/224/3221227117/03.m3u8
 #EXTINF:-1 tvg-id="FoxLife.id" tvg-name="FOX Life HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="Movie",FOX Life
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227277/03.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="FOX Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" group-title="Movie",FOX Movies
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227119/03.m3u8
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="Movie",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movie",HBO Family
@@ -52,13 +52,13 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movie",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS HD" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" group-title="Movie",HITS
-http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227329/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hits Movie SD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" group-title="Movie",Hits Movie
-http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227331/04.m3u8
 #EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="Movie",KIX
 http://210.210.155.35:80/session/0d11b596-e2de-11eb-9c1c-c81f66f89318/dr9445/h/h07/01.m3u8
 #EXTINF:-1 tvg-id="Lifetime.id" tvg-name="LifeTime HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="Movie",LifeTime
-http://31.220.41.88:8081/live/us-lifetime.stream/playlist.m3u8?token=null
+http://103.47.132.164/PLTV/88888888/224/3221227337/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Red By HBO HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="Movie",Red By HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="Movie",Star Chinese Movies
@@ -75,63 +75,63 @@ http://143.244.60.10/HINDI__AND_FLIX_HD/tracks-v1a1/mono.m3u8?token=test
 http://143.244.60.10/ENGLISH__AND_PRIVE_HD/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Animal Planet HD" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/channel-logo-animal-planet-1.png" group-title="Knowledge",Animal Planet
-http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
+http://31.220.41.88:8081/live/us-animal.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Knowledge",BBC Earth
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165106
+http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="CrimeInvestigation.id" tvg-name="Crime Investigation" tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="Knowledge",Crime Investigation
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157554
+http://103.47.132.164/PLTV/88888888/224/3221227341/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1024px-Discovery_Asia_logo.svg.png" group-title="Knowledge",Discovery Asia
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227161/02.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsia.my" tvg-name="Discovery Channel HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="Knowledge",Discovery Channel
-http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227169/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/200px-Discovery_Science_2017_Logo.svg.png" group-title="Knowledge",Discovery Science
-https://itvorigin.multitvsolution.com/idvo/discoverscienceeng.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="Knowledge",Discovery Turbo
-https://itvorigin.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
+
 #EXTINF:-1 tvg-id="ABC.au" tvg-name="History FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="Knowledge",History
-http://185.180.221.194:8278/streams/d/History/playlist.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227335/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="Knowledge",Love Nature 4K
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227339/03.m3u8
 #EXTINF:-1 tvg-id="nationalgeographicchannelhd.id" tvg-name="Nat Geo HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="Knowledge",Nat Geo
-http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227177/03.m3u8
 #EXTINF:-1 tvg-id="NatGeoPeople.id" tvg-name="Nat Geo People HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="Knowledge",Nat Geo People
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157551
+http://103.47.132.164/PLTV/88888888/224/3221227127/03.m3u8
 #EXTINF:-1 tvg-id="NatGeoWild.id" tvg-name="Nat Geo Wild HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="Knowledge",Nat Geo Wild
-http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227157/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Smithsonian_Channel.png/220px-Smithsonian_Channel.png" group-title="Knowledge",Smithsonian Channel
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6550_720p/index.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227321/04.m3u8
 
 #EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Kids",Animax
-http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227145/03.m3u8
 #EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="Kids",Aniplus
-https://nonton.site:8443/provision/pp/37439
+
 #EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids",Baby First
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7203
+http://topwin-tv.my.id/2/chunklist.m3u8?id=babyfirst&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://mncvision.id/userfiles/image/channel/baby_tv.png" group-title="Kids",Baby TV
-http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
+http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids",Boomerang
-http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
+http://topwin-tv.my.id/2/chunklist.m3u8?id=boomerang&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="cartoonnetwork.id" tvg-name="Cartoon Network ID HD" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Kids",Cartoon Network
-http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
+http://topwin-tv.my.id/2/chunklist.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="Kids",CBeebies
-http://185.180.221.194:8278/streams/d/Cbeebies/playlist.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227353/03.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel
-http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227183/03.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney Junior" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Kids",Disney Junior
-http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Dream Works HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEDvWad4egvRg8Ned0wM36Ewb0syq_8qEqg&usqp=CAU" group-title="Kids",Dream Works
-https://nonton.site:8443/provision/pp/37456
+
 #EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="Nick Jr 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nick_Jr._2_logo.png/320px-Nick_Jr._2_logo.png" group-title="Kids",Nick Jr
-http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
+http://topwin-tv.my.id/2/chunklist.m3u8?id=nickelodeon&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Kids",Nickelodeon
-http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.my" tvg-name="AFN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Variety",AFN
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227191/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png" group-title="Variety",BBC Lifestyle
-http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227115/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Variety",Blue Ant Entertainment
-http://45.126.83.51/dr9445/h/h16/02.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227333/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKdkY1njL95nIyLVxWl752cICskAeWDEpvbg&usqp=CAU" group-title="Variety",DMAX
 http://31.220.41.88:8081/live/dmax.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMNXi3voajCyv3Hy_MKGIWKrAyWA-nR5znbw&usqp=CAU" group-title="Variety",Fashion TV
@@ -141,7 +141,7 @@ http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFnf22GZ9YOwThSvjiqOhWlfFy2G2Sn2RL9Q&usqp=CAU" group-title="Variety",NHK World Japan
 https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="ABC.au" tvg-name="TLC HD" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg" group-title="Variety",TLC
-https://bozztv.com/teleyupp/teleup-tlc/playlist.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227113/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 5 Monde Asie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUFKYLyAOShVN-v_MANZPinYsLXOXSU-VRNQ&usqp=CAU" group-title="Variety",TV 5 Monde
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Channel V HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="Variety",Channel V
@@ -150,11 +150,12 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plus
 
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Waku waku japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="Variety", Waku Waku Japan
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/104
+http://topwin-tv.my.id/2/chunklist.m3u8?id=wakuwaku&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Waku waku japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy0QjeDIKfrFl1Sa4rjsqvr3i6CSmsjZfV3g&usqp=CAU" group-title="Variety", Sony GEM
-http://45.126.83.51/uq2663/h/h19/index.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227187/03.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="arirang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTGcyVeEMssXvE6Om7_OYgvvtfmXvZ2eBMw&usqp=CAU" group-title="Korea",Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227259/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="kbs2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png" group-title="Korea",KBS 2
 http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="sbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="Korea",SBS
@@ -168,7 +169,7 @@ https://tv.mbahnunungonline.net/playlist/kplus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY - KBS World HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2bOi7pMZWu9PKeJ4CoAKd9seCvWnymw5oBA&usqp=CAU" group-title="Korea",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="SonyOne.id" tvg-name="Sony ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png" group-title="Korea",Sony ONE
-http://210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227143/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY - tvN HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="Korea",tvN
 https://iptvid.cgflix.xyz/vidio/tvn.m3u8
 #EXTINF:-1 tvg-id="TVNMovies.id" tvg-name="tVN Movies HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTiLRA2QhTQQrDpfY7m-wJSLEggFESRIjKA&usqp=CAU" group-title="Korea",tVN Movies
