@@ -50,7 +50,7 @@ http://31.220.41.88:8081/live/us-hbofamily.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movie",HBO Signature
-
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS HD" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" group-title="Movie",HITS
 http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hits Movie SD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" group-title="Movie",Hits Movie
@@ -60,7 +60,7 @@ http://210.210.155.35:80/session/0d11b596-e2de-11eb-9c1c-c81f66f89318/dr9445/h/h
 #EXTINF:-1 tvg-id="Lifetime.id" tvg-name="LifeTime HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="Movie",LifeTime
 http://31.220.41.88:8081/live/us-lifetime.stream/playlist.m3u8?token=null
 #EXTINF:-1 tvg-id="" tvg-name="Red By HBO HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="Movie",Red By HBO
-https://kopiku.my.id/inr/hbo.m3u8?channel=red
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="Movie",Star Chinese Movies
 http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="https://www.infotelevisi.com/asset/images/tv/star_chinese_movies_legend.png" group-title="Movie",Star Chinese Movies Legend
@@ -127,21 +127,21 @@ http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.my" tvg-name="AFN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Variety",AFN
-http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png" group-title="Variety",BBC Lifestyle
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Variety",Blue Ant Entertainment
-https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+http://45.126.83.51/dr9445/h/h16/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKdkY1njL95nIyLVxWl752cICskAeWDEpvbg&usqp=CAU" group-title="Variety",DMAX
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/158351
+http://31.220.41.88:8081/live/dmax.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMNXi3voajCyv3Hy_MKGIWKrAyWA-nR5znbw&usqp=CAU" group-title="Variety",Fashion TV
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/196455
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" group-title="Variety",HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFnf22GZ9YOwThSvjiqOhWlfFy2G2Sn2RL9Q&usqp=CAU" group-title="Variety",NHK World Japan
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157588
+https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="ABC.au" tvg-name="TLC HD" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg" group-title="Variety",TLC
-https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+https://bozztv.com/teleyupp/teleup-tlc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 5 Monde Asie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUFKYLyAOShVN-v_MANZPinYsLXOXSU-VRNQ&usqp=CAU" group-title="Variety",TV 5 Monde
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Channel V HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="Variety",Channel V
