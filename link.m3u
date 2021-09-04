@@ -20,27 +20,27 @@ http://rt-uk.secure.footprint.net:80/1106_2500Kb.m3u8
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="Movie",AXN
-http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=axn
 #EXTINF:-1 tvg-id="" tvg-name="Blue Ant Extreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="Movie",Blue Ant Extreme
-https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/kupjtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png" group-title="Movie",CCM
-http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movie",Celestial Movies
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="Movie",Cinema World
-http://210.210.155.35/uq2663/h/h04/01.m3u8
+http://210.210.155.35:80/dr9445/h/h04/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movie",Cinemax
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+http://stream.tvtap.net:8081/live/us-cinemax.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX.id" tvg-name="FOX HD" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" group-title="Movie",FOX
-http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Movie",FOX Action Movies
-http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FOXCrime.id" tvg-name="FOX Crime HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="Movie",FOX Crime
-http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="FOX Family Movies ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_410.png" group-title="Movie",FOX Family Movies
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FoxLife.id" tvg-name="FOX Life HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="Movie",FOX Life
-http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="FOX Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" group-title="Movie",FOX Movies
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="Movie",HBO
