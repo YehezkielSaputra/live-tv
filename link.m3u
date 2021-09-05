@@ -35,7 +35,7 @@ http://210.210.155.35/qwr9ew/s/s33/01.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="Movie",Cinema World
 http://210.210.155.35:80/dr9445/h/h04/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movie",Cinemax
-http://stream.tvtap.net:8081/live/us-cinemax.stream/playlist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 tvg-id="FOX.id" tvg-name="FOX HD" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" group-title="Movie",FOX
 http://103.47.132.164/PLTV/88888888/224/3221227137/03.m3u8
 #EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Movie",FOX Action Movies
@@ -65,7 +65,7 @@ http://210.210.155.35:80/session/0d11b596-e2de-11eb-9c1c-c81f66f89318/dr9445/h/h
 #EXTINF:-1 tvg-id="Lifetime.id" tvg-name="LifeTime HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="Movie",LifeTime
 http://103.47.132.164/PLTV/88888888/224/3221227337/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Red By HBO HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="Movie",Red By HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="Movie",Star Chinese Movies
 http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="https://www.infotelevisi.com/asset/images/tv/star_chinese_movies_legend.png" group-title="Movie",Star Chinese Movies Legend
