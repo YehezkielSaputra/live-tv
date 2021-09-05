@@ -187,7 +187,6 @@ http://kkhyoyoyo.duckdns.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C00551&q=SD
 https://tv.mbahnunungonline.net/playlist/kplus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY - KBS World HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2bOi7pMZWu9PKeJ4CoAKd9seCvWnymw5oBA&usqp=CAU" group-title="Korea",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745689
 #EXTINF:-1 tvg-id="SonyOne.id" tvg-name="Sony ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png" group-title="Korea",Sony ONE
 http://103.47.132.164/PLTV/88888888/224/3221227143/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY - tvN HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="Korea",tvN
