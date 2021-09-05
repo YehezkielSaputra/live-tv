@@ -82,9 +82,12 @@ http://143.244.60.10/ENGLISH__AND_PRIVE_HD/tracks-v1a1/mono.m3u8?token=test
 
 
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Animal Planet HD" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/channel-logo-animal-planet-1.png" group-title="Knowledge",Animal Planet
-http://31.220.41.88:8081/live/us-animal.stream/playlist.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227173/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAr3T2Z.png" group-title="Knowledge",Crime Investigation
+http://103.47.132.164/PLTV/88888888/224/3221227341/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Knowledge",BBC Earth
 http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745764
 #EXTINF:-1 tvg-id="CrimeInvestigation.id" tvg-name="Crime Investigation" tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="Knowledge",Crime Investigation
 http://103.47.132.164/PLTV/88888888/224/3221227341/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1024px-Discovery_Asia_logo.svg.png" group-title="Knowledge",Discovery Asia
