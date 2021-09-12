@@ -37,6 +37,8 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 http://210.210.155.35:80/dr9445/h/h04/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movie",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJAPJRl_ZBANLbmqFFr9Ql-AHQwhf5foe4g&usqp=CAU" group-title="Movie",Fx
+https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX.id" tvg-name="FOX HD" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" group-title="Movie",FOX
 http://103.47.132.164/PLTV/88888888/224/3221227137/03.m3u8
 #EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Movie",FOX Action Movies
