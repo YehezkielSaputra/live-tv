@@ -61,7 +61,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227329/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hits Movie SD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" group-title="Movie",Hits Movie
 http://103.47.132.164/PLTV/88888888/224/3221227331/04.m3u8
 #EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="Movie",KIX
-http://210.210.155.35:80/session/0d11b596-e2de-11eb-9c1c-c81f66f89318/dr9445/h/h07/01.m3u8
+http://rr1.dens.tv/h/h07/01.m3u8
 #EXTINF:-1 tvg-id="Lifetime.id" tvg-name="LifeTime HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="Movie",LifeTime
 http://103.47.132.164/PLTV/88888888/224/3221227337/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Red By HBO HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="Movie",Red By HBO
