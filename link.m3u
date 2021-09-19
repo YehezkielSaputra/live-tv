@@ -232,6 +232,8 @@ http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Chinese Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3kv8pfA4NM0wBmewE4jABFbkUIxZubqVHw&usqp=CAU" group-title="China",Chinese Drama
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
+#EXTINF:-1 tvg-id="" tvg-name="Chinese Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="China",RTHK31
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVB JADE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1UdSJCmvb5Jh8wCDW0oaq-kbeqBYWugGCIA&usqp=CAU" group-title="China",TVB JADE
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVB XING HE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgUGHtQpsWuio9I2a667qH8Gx9uUFqU2V8wQ&usqp=CAU" group-title="China",TVB XING HE
