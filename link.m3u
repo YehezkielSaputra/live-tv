@@ -69,6 +69,14 @@ http://103.47.132.164/PLTV/88888888/224/3221227331/04.m3u8
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="Lifetime.id" tvg-name="LifeTime HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="Movie",LifeTime
 http://103.47.132.164/PLTV/88888888/224/3221227337/03.m3u8
+#EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movie",Thrill
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Movie",Warner TV
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745733
+#EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCJHlIMV-5avD6si8KFJc3dWBAuxKU-FONYw&usqp=CAU" group-title="Movie",&Flix
+http://143.244.60.10/HINDI__AND_FLIX_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwNiBy3f3Ns8DFnyAIn_hab74Y2vQPH02taw&usqp=CAU" group-title="Movie",&Prive
+http://143.244.60.10/ENGLISH__AND_PRIVE_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="Red By HBO HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="Movie",Red By HBO
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="Movie",Star Chinese Movies
@@ -81,16 +89,10 @@ http://foctv.xyz:25510/Amir5641/YY5641/52
 http://107.167.5.66/mylive/102/2031/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT11yiV-z4ewWqSPT1Mfx77xwiLoDEEQp57LA&usqp=CAU" group-title="Movie",EBS
 http://107.167.5.66/mylive/102/2062/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg1xt8YhYBm9NI5bivc1i9_pEQccfKhefkUQ&usqp=CAU" group-title="Movie", Weilai Theatre
+#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg1xt8YhYBm9NI5bivc1i9_pEQccfKhefkUQ&usqp=CAU" group-title="Movie",Weilai Theatre
 http://107.167.5.66/mylive/102/2063/index.m3u8
-#EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movie",Thrill
-http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Movie",Warner TV
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745733
-#EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCJHlIMV-5avD6si8KFJc3dWBAuxKU-FONYw&usqp=CAU" group-title="Movie",&Flix
-http://143.244.60.10/HINDI__AND_FLIX_HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwNiBy3f3Ns8DFnyAIn_hab74Y2vQPH02taw&usqp=CAU" group-title="Movie",&Prive
-http://143.244.60.10/ENGLISH__AND_PRIVE_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK2xD8sMCO7vaN1G4G6x_48kaYAgOqzQVWYA&usqp=CAU" group-title="Movie",Lotus Macau
+https://cdn.nowhdtime.com.bd/LotusTVMacau/tracks-v1a1/mono.m3u8
 
 
 
@@ -251,7 +253,7 @@ https://cdn.hkdtmb.com/hls/84/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDTvGu_UHop8XrkzzlbZl2aIaK898UxECRRA&usqp=CAU" group-title="China",CTI
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745678
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/FTV_Show_Group.png" group-title="China",Formosa TV
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=formosa
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png" group-title="China",TVBS
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745681
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrC5995pAWSj0eu2bwz2o6F29k4sgkG6RkgQ&usqp=CAU" group-title="China", Xing Kong
