@@ -79,6 +79,10 @@ http://107.167.5.66/mylive/102/2061/index.m3u8
 http://foctv.xyz:25510/Amir5641/YY5641/52
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Star_Chinese_Channel_logo_2016.png" group-title="Movie",Star Chinese Channel
 http://107.167.5.66/mylive/102/2031/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT11yiV-z4ewWqSPT1Mfx77xwiLoDEEQp57LA&usqp=CAU" group-title="Movie",EBS
+http://107.167.5.66/mylive/102/2062/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg1xt8YhYBm9NI5bivc1i9_pEQccfKhefkUQ&usqp=CAU" group-title="Movie", Weilai Theatre
+http://107.167.5.66/mylive/102/2063/index.m3u8
 #EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movie",Thrill
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Movie",Warner TV
