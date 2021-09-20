@@ -201,7 +201,11 @@ http://103.47.132.164/PLTV/88888888/224/3221227187/03.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227259/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="kbs2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png" group-title="Korea",KBS 2
 http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="Korea",SBS
+#EXTINF:-1 tvg-id="" tvg-name="sbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="Korea",SBS International
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8#https://streaming-a-802.cdn.nextol
+#EXTINF:-1 tvg-id="" tvg-name="sbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="Korea",SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/playlist.m3u8#https://streaming-a-802.cdn.nextologies.com/SBS_Pl
+#EXTINF:-1 tvg-id="" tvg-name="sbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="Korea",SBS Star
 https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="mbc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhTP5bpnoN61uId6MJkEXj_cRQE-_75yOnQQ&usqp=CAU" group-title="Korea",MBC
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
