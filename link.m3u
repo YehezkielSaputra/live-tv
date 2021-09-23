@@ -24,7 +24,7 @@ https://livecdn.fptplay.net/world/france24_hls.smil/chunklist.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227055/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Russia Today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/a/a0/20160830052851%21Russia-today-logo.svg/120px-Russia-today-logo.svg.png" group-title="News",Russia Today
 https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
-https://cdn6.goprimetime.info/feed/202105171329/LC41/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="Movie",AXN
@@ -93,7 +93,7 @@ http://foctv.xyz:25510/Amir5641/YY5641/52
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg1xt8YhYBm9NI5bivc1i9_pEQccfKhefkUQ&usqp=CAU" group-title="Movie",Weilai Theatre
 
 #EXTINF:-1 tvg-id="" tvg-name="Red By HBO HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="Movie",Red By HBO
-https://cdn6.goprimetime.info/feed/202105171329/LC41/index.m3u8
+
 
 
 
