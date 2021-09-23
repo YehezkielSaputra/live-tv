@@ -5,7 +5,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiROS1B-NgSh2_h71UvrK1cYKszzZgZihQg&usqp=CAU" group-title="News",ASTRO AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC World News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/150px-BBC_World_News_2019.svg.png" group-title="News",BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title="News",CGTN
 http://103.47.132.164/PLTV/88888888/224/3221227311/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/220px-CGTN.png" group-title="News",CGTN Documentary
