@@ -11,16 +11,16 @@ http://103.47.132.164/PLTV/88888888/224/3221227311/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/220px-CGTN.png" group-title="News",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel News Asia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png" group-title="News",Channel News Asia
-http://210.210.155.35:80/session/f902238c-d81b-11eb-8981-c81f66f89318/uq2663/h/h29/01.m3u8
-http://103.47.132.164/PLTV/88888888/224/3221227103/04.m3u8
+#http://210.210.155.35:80/session/f902238c-d81b-11eb-8981-c81f66f89318/uq2663/h/h29/01.m3u8
+#http://103.47.132.164/PLTV/88888888/224/3221227103/04.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cnn_logo_red_background.png/200px-Cnn_logo_red_background.png" group-title="News",CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW TV Asia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png" group-title="News",DW TV Asia
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227181/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png" group-title="News",France 24
-https://livecdn.fptplay.net/world/france24_hls.smil/chunklist.m3u8
+#https://livecdn.fptplay.net/world/france24_hls.smil/chunklist.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227055/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Russia Today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/a/a0/20160830052851%21Russia-today-logo.svg/120px-Russia-today-logo.svg.png" group-title="News",Russia Today
 https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
@@ -78,7 +78,7 @@ https://cdn6.goprimetime.info/feed/202105171329/LC41/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png" group-title="Movie",CCM
 http://210.210.155.35/qwr9ew/s/s31/index.m3u8
 #EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movie",Celestial Movies
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 http://210.210.155.35:80/session/28969b54-e2f9-11eb-ba48-c81f66f89318/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="Movie",Star Chinese Movies
 http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
@@ -102,7 +102,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227173/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DAr3T2Z.png" group-title="Knowledge",Crime Investigation
 http://103.47.132.164/PLTV/88888888/224/3221227341/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Knowledge",BBC Earth
-http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
+#http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745764
 #EXTINF:-1 tvg-id="CrimeInvestigation.id" tvg-name="Crime Investigation" tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="Knowledge",Crime Investigation
 http://103.47.132.164/PLTV/88888888/224/3221227341/02.m3u8
@@ -132,7 +132,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227321/04.m3u8
 #EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG8XzLN3cGLldIIi-5ceJvND2IO0nOatG9ng&usqp=CAU" group-title="Kids",AniBox
 https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/playlist_sltha.m3u8
 #EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Kids",Animax
-http://103.47.132.164/PLTV/88888888/224/3221227145/03.m3u8
+#http://103.47.132.164/PLTV/88888888/224/3221227145/03.m3u8
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 #EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="Kids",Aniplus
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745754
@@ -184,7 +184,7 @@ https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Channel V HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREOUe73tHR10sT5X2whn5OnkpTRfLcp9wBoQ&usqp=CAU" group-title="Variety",MTV
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745775
 #EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFnf22GZ9YOwThSvjiqOhWlfFy2G2Sn2RL9Q&usqp=CAU" group-title="Variety",NHK World Japan
-https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+#https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227185/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2JQJljGcNpLZxatW0-riZz4lymWXogNJy3A&usqp=CAU" group-title="Variety",Nippon TV
 https://ntv1.mov3.co/hls/ntv.m3u8
@@ -210,26 +210,26 @@ https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/playlis
 #EXTINF:-1 tvg-id="" tvg-name="sbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="Korea",SBS Star
 https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="mbc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhTP5bpnoN61uId6MJkEXj_cRQE-_75yOnQQ&usqp=CAU" group-title="Korea",MBC
-https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8#https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8#https://5c3639aa9
 #EXTINF:-1 tvg-id="" tvg-name="tvN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="Korea",tvN Korea
 http://kkhyoyoyo.duckdns.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C00551&q=SD&apikey=0MENK2CJI5
 #EXTINF:-1 tvg-id="Kplus.id" tvg-name="K Plus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO6-C2rrbIluAaPVdHD9RbiSjdpJ4sR7MsXg&usqp=CAU" group-title="Korea",K Plus
-http://210.210.155.35/session/c74a75b8-0196-11ea-bbc1-c81f66f89318/uq2663/h/h08/index.m3u8
+#http://210.210.155.35/session/c74a75b8-0196-11ea-bbc1-c81f66f89318/uq2663/h/h08/index.m3u8
 http://210.210.155.35:80/session/84d7ac94-d4af-11eb-a75d-c81f66f89318/uq2663/h/h08/01.m3u8?app_type=web&userid=j0eynx2jmkj&tkn=CX3D651BL0D8BG6WEI1WY0OYKLTVJ3MO&c
 #EXTINF:-1 tvg-id="" tvg-name="MY - KBS World HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2bOi7pMZWu9PKeJ4CoAKd9seCvWnymw5oBA&usqp=CAU" group-title="Korea",KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+#https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="SonyOne.id" tvg-name="Sony ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png" group-title="Korea",Sony ONE
 http://103.47.132.164/PLTV/88888888/224/3221227143/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY - tvN HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="Korea",tvN
-http://rr1.dens.tv/h/h20/01.m3u8
+#http://rr1.dens.tv/h/h20/01.m3u8
 https://bukankaleng.co/live/d43az/1631981527/107.ts
 #EXTINF:-1 tvg-id="TVNMovies.id" tvg-name="tVN Movies HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTiLRA2QhTQQrDpfY7m-wJSLEggFESRIjKA&usqp=CAU" group-title="Korea",tVN Movies
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tvnmovies
+#http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tvnmovies
 http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY - Oh!K HD" tvg-logo="https://www.ohk-tv.com/img/logo.png" group-title="Korea",Oh!K
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745691
+#https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745691
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
 
@@ -246,7 +246,7 @@ http://39.130.202.114:6610/gitv_live/G_ANHUI-HD/G_ANHUI-HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zhejiang" tvg-logo="https://www.tvchinese.net/uploads/tv/zjgj.jpg" group-title="China",Zhejiang
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/zhejiang/350/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Phoenix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpXXV3vZDP_-M_itIkkGysxDXZZB42Y48aVQ&usqp=CAU" group-title="China",Phoenix
-http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
+#http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
 http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Viu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE0ugYtjruTjdFVGt25KvL8cokKV7mkJz60Q&usqp=CAU" group-title="China",Viu
 https://cdn.hkdtmb.com/hls/99/index.m3u8
@@ -277,7 +277,7 @@ http://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDTvGu_UHop8XrkzzlbZl2aIaK898UxECRRA&usqp=CAU" group-title="China",CTI
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745678
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/FTV_Show_Group.png" group-title="China",Formosa TV
-http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 https://4gtvfreemobile-mozai.4gtv.tv/Sh5zaH2rHUaID6SKbuIKG10y9SxeNCLieQ9nWKTXvqc%3d/master.m3u8?token=ujxpBdWjfL1pVbuHv8Sg2Q&expires=1614368115&token1=lu
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png" group-title="China",TVBS
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745681
@@ -339,7 +339,7 @@ http://198.16.106.62:8278/streams/d/Channel5HD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ChannelU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCPU2r4N_RQ6_c-q73AAuNFlao08iWaGov-A&usqp=CAU" group-title="Malaysia",Channel U
 http://198.16.106.62:8278/streams/d/ChannelU/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png" group-title="Malaysia",TV 8
-http://feed.ruwet.xyz:8278/streams/d/TV8/playlist.m3u8
+#http://feed.ruwet.xyz:8278/streams/d/TV8/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
 
