@@ -344,8 +344,14 @@ http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGVaARGuUJixgmGIrCUuCTSRoFk-wtNe7y7w&usqp=CAU" group-title="Sport",Astro Arena
-http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="Sport",Astro Supersport 1
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/skycore/astro1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="Sport",Astro Supersport 2
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/skycore/astro2/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="Sport",Astro Supersport 3
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/skycore/astro3/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="Sport",Astro Supersport 4
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/skycore/astro4/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXoRtRyb1bA1lnvf4MjvrNVYnSkUdkbXvVdw&usqp=CAU" group-title="Sport",BeIn 1
 http://ux38.gcdn.co/UKS63/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq731-tNqcQ6nSs1GTAt6OKPKRKa0LMOR1nQ&usqp=CAU" group-title="Sport",BeIn 2
