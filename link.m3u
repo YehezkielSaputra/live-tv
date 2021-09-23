@@ -344,11 +344,23 @@ http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png" group-title="Sport",Fox Sport 1
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/152
-#EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png" group-title="Sport",Fox Sport 2
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/153
-#EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png" group-title="Sport",Fox Sport 3
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/154
-#EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png" group-title="Sport",Special for Wilson
+#EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGVaARGuUJixgmGIrCUuCTSRoFk-wtNe7y7w&usqp=CAU" group-title="Sport",Astro Arena
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXoRtRyb1bA1lnvf4MjvrNVYnSkUdkbXvVdw&usqp=CAU" group-title="Sport",BeIn 1
+http://ux38.gcdn.co/UKS63/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq731-tNqcQ6nSs1GTAt6OKPKRKa0LMOR1nQ&usqp=CAU" group-title="Sport",BeIn 2
+http://ux38.gcdn.co/UKS64/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest?cb=20201108180658" group-title="Sport",BeIn Xtra
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJwVCzwBeHJJm1j-9r9iY7pe07DuHUS0bRUg&usqp=CAU" group-title="Sport",ESPN
+http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqqUUY7cqG7fG4PxDkXibF2Aa9Cd8vWLAZvQ&usqp=CAU" group-title="Sport",Eurosport
+http://foctv.xyz:25510/Amir5641/YY5641/328
+#EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUxmSbQNMFd3x9RvInuN7aTnZspfS0_Ybo0A&usqp=CAU" group-title="Sport",Fox Sport 1
+https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFO7GLRN_nbMUkmXf4y7RIjEsVmjM0prYhiQ&usqp=CAU" group-title="Sport",Fox Sport 2
+https://livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3PI5NqUhzBiX4Q7_W0aw3T3pjpAIu8L9ukg&usqp=CAU" group-title="Sport",Fox Sport 3
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745746
+#EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="" group-title="Sport",Special for Wilson
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
