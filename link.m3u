@@ -341,3 +341,13 @@ http://198.16.106.62:8278/streams/d/ChannelU/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png" group-title="Malaysia",TV 8
 http://feed.ruwet.xyz:8278/streams/d/TV8/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png" group-title="Sport",Fox Sport 1
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/152
+#EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png" group-title="Sport",Fox Sport 2
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/153
+#EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png" group-title="Sport",Fox Sport 3
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/154
+
