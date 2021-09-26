@@ -126,6 +126,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227127/03.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227157/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Smithsonian_Channel.png/220px-Smithsonian_Channel.png" group-title="Knowledge",Smithsonian Channel
 http://103.47.132.164/PLTV/88888888/224/3221227321/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png" group-title="Knowledge",DaAi Channel
+http://103.47.132.164/PLTV/88888888/224/3221227241/index.m3u8
 
 
 
