@@ -1,8 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="Aljazeera EN" tvg-logo="https://mncvision.id/userfiles/image/channel/aljazeera.png" group-title="News",Aljazeera
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #https://bukankaleng.co/live/d43az/1631981527/152.ts
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiROS1B-NgSh2_h71UvrK1cYKszzZgZihQg&usqp=CAU" group-title="News",ASTRO AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC World News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/150px-BBC_World_News_2019.svg.png" group-title="News",BBC World News
@@ -36,69 +36,69 @@ https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="Movie",AXN
-#http://103.47.132.164/PLTV/88888888/224/3221227159/03.m3u8
-https://bukankaleng.co/live/d43az/1631981527/87.ts
+http://103.47.132.164/PLTV/88888888/224/3221227159/03.m3u8
+#https://bukankaleng.co/live/d43az/1631981527/87.ts
 #EXTINF:-1 tvg-id="" tvg-name="Blue Ant Extreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Rock_Extreme.png" group-title="Movie",Rock Extreme
-#http://103.47.132.164/PLTV/88888888/224/3221227319/03.m3u8
-https://bukankaleng.co/live/d43az/1631981527/86.ts
+http://103.47.132.164/PLTV/88888888/224/3221227319/03.m3u8
+#https://bukankaleng.co/live/d43az/1631981527/86.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="Movie",Cinema World
-#http://210.210.155.35:80/dr9445/h/h04/01.m3u8
-https://bukankaleng.co/live/d43az/1631981527/31.ts
+http://210.210.155.35:80/dr9445/h/h04/01.m3u8
+#https://bukankaleng.co/live/d43az/1631981527/31.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movie",Cinemax
 https://dl.dropboxusercontent.com/s/1nqhsz02w72ojjl/MAX.m3u8
-https://bukankaleng.co/live/d43az/1631981527/99.ts
+#https://bukankaleng.co/live/d43az/1631981527/99.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJAPJRl_ZBANLbmqFFr9Ql-AHQwhf5foe4g&usqp=CAU" group-title="Movie",Fx
 
 #EXTINF:-1 tvg-id="FOX.id" tvg-name="FOX HD" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" group-title="Movie",FOX
-#http://103.47.132.164/PLTV/88888888/224/3221227137/03.m3u8
-https://bukankaleng.co/live/d43az/1631981527/88.ts
+http://103.47.132.164/PLTV/88888888/224/3221227137/03.m3u8
+#https://bukankaleng.co/live/d43az/1631981527/88.ts
 #EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Movie",FOX Action Movies
-#http://103.47.132.164/PLTV/88888888/224/3221227121/03.m3u8
-https://bukankaleng.co/live/d43az/1631981527/92.ts
+http://103.47.132.164/PLTV/88888888/224/3221227121/03.m3u8
+#https://bukankaleng.co/live/d43az/1631981527/92.ts
 #EXTINF:-1 tvg-id="FOXCrime.id" tvg-name="FOX Crime HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="Movie",FOX Crime
-#http://103.47.132.164/PLTV/88888888/224/3221227165/03.m3u8
-https://bukankaleng.co/live/d43az/1631981527/89.ts
+http://103.47.132.164/PLTV/88888888/224/3221227165/03.m3u8
+#https://bukankaleng.co/live/d43az/1631981527/89.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX Family Movies ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_410.png" group-title="Movie",FOX Family Movies
-#http://103.47.132.164/PLTV/88888888/224/3221227117/03.m3u8
-https://bukankaleng.co/live/d43az/1631981527/93.ts
+http://103.47.132.164/PLTV/88888888/224/3221227117/03.m3u8
+#https://bukankaleng.co/live/d43az/1631981527/93.ts
 #EXTINF:-1 tvg-id="FoxLife.id" tvg-name="FOX Life HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="Movie",FOX Life
-#http://103.47.132.164/PLTV/88888888/224/3221227277/03.m3u8
-https://bukankaleng.co/live/d43az/1631981527/90.ts
+http://103.47.132.164/PLTV/88888888/224/3221227277/03.m3u8
+#https://bukankaleng.co/live/d43az/1631981527/90.ts
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="FOX Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" group-title="Movie",FOX Movies
-#http://103.47.132.164/PLTV/88888888/224/3221227119/03.m3u8
-https://bukankaleng.co/live/d43az/1631981527/91.ts
+http://103.47.132.164/PLTV/88888888/224/3221227119/03.m3u8
+#https://bukankaleng.co/live/d43az/1631981527/91.ts
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://www.useetv.com/pimages/tvposter/galaxy.png" group-title="Movie",Galaxy
 https://bukankaleng.co/live/d43az/1631981527/28.ts
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://www.useetv.com/pimages/logogrey/grey_logo_galaxypremium_big.png" group-title="Movie",Galaxy Premium
 https://bukankaleng.co/live/d43az/1631981527/29.ts
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="Movie",HBO
-#http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-https://bukankaleng.co/live/d43az/1631981527/95.ts
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#https://bukankaleng.co/live/d43az/1631981527/95.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movie",HBO Family
-#http://31.220.41.88:8081/live/us-hbofamily.stream/playlist.m3u8
-https://bukankaleng.co/live/d43az/1631981527/96.ts
+http://31.220.41.88:8081/live/us-hbofamily.stream/playlist.m3u8
+#https://bukankaleng.co/live/d43az/1631981527/96.ts
 #EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie",HBO Hits
-#https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-https://bukankaleng.co/live/d43az/1631981527/97.ts
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+#https://bukankaleng.co/live/d43az/1631981527/97.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movie",HBO Signature
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-https://bukankaleng.co/live/d43az/1631981527/98.ts
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#https://bukankaleng.co/live/d43az/1631981527/98.ts
 #EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS HD" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" group-title="Movie",HITS
 http://103.47.132.164/PLTV/88888888/224/3221227329/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hits Movie SD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" group-title="Movie",Hits Movie
 http://103.47.132.164/PLTV/88888888/224/3221227331/04.m3u8
 #EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="Movie",KIX
-#https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
-https://bukankaleng.co/live/d43az/1631981527/117.ts
+https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#https://bukankaleng.co/live/d43az/1631981527/117.ts
 #EXTINF:-1 tvg-id="Lifetime.id" tvg-name="LifeTime HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="Movie",LifeTime
-#http://103.47.132.164/PLTV/88888888/224/3221227337/03.m3u8
-https://bukankaleng.co/live/d43az/1631981527/84.ts
+http://103.47.132.164/PLTV/88888888/224/3221227337/03.m3u8
+#https://bukankaleng.co/live/d43az/1631981527/84.ts
 #EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movie",Thrill
-#http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-https://bukankaleng.co/live/d43az/1631981527/102.ts
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+#https://bukankaleng.co/live/d43az/1631981527/102.ts
 #EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Movie",Warner TV
-#https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745733
-https://bukankaleng.co/live/d43az/1631981527/83.ts
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745733
+#https://bukankaleng.co/live/d43az/1631981527/83.ts
 #EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCJHlIMV-5avD6si8KFJc3dWBAuxKU-FONYw&usqp=CAU" group-title="Movie",&Flix
 http://143.244.60.10/HINDI__AND_FLIX_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwNiBy3f3Ns8DFnyAIn_hab74Y2vQPH02taw&usqp=CAU" group-title="Movie",&Prive
@@ -106,18 +106,18 @@ http://143.244.60.10/ENGLISH__AND_PRIVE_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK2xD8sMCO7vaN1G4G6x_48kaYAgOqzQVWYA&usqp=CAU" group-title="Movie",Lotus Macau
 https://cdn6.goprimetime.info/feed/202105171329/LC41/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png" group-title="Movie",CCM
-#http://210.210.155.35/qwr9ew/s/s31/index.m3u8
-https://bukankaleng.co/live/d43az/1631981527/119.ts
+http://210.210.155.35/qwr9ew/s/s31/index.m3u8
+#https://bukankaleng.co/live/d43az/1631981527/119.ts
 #EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movie",Celestial Movies
 #http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#http://210.210.155.35:80/session/28969b54-e2f9-11eb-ba48-c81f66f89318/qwr9ew/s/s33/01.m3u8
-https://bukankaleng.co/live/d43az/1631981527/118.ts
+http://210.210.155.35:80/session/28969b54-e2f9-11eb-ba48-c81f66f89318/qwr9ew/s/s33/01.m3u8
+#https://bukankaleng.co/live/d43az/1631981527/118.ts
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="Movie",Star Chinese Movies
-#http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
-https://bukankaleng.co/live/d43az/1631981527/121.ts
+http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
+#https://bukankaleng.co/live/d43az/1631981527/121.ts
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="https://www.infotelevisi.com/asset/images/tv/star_chinese_movies_legend.png" group-title="Movie",Star Chinese Movies Legend
-#http://foctv.xyz:25510/Amir5641/YY5641/52
-https://bukankaleng.co/live/d43az/1631981527/120.ts
+http://foctv.xyz:25510/Amir5641/YY5641/52
+#https://bukankaleng.co/live/d43az/1631981527/120.ts
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="Movie",Star Chinese Movies Taiwan
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Star_Chinese_Channel_logo_2016.png" group-title="Movie",Star Chinese Channel
