@@ -29,12 +29,11 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cnn_logo_red_background.png/200px-Cnn_logo_red_background.png" group-title="News",CNN International
-
 #https://bukankaleng.co/live/d43az/1631981527/150.ts
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Aljazeera EN" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQcZ8aAxexPJhQiG6v50Yqa2m1Lb9G2lEWNOul4=s900-c-k-c0x00ffffff-no-rj" group-title="News",CNBC
-#https://bukankaleng.co/live/d43az/1631981527/155.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera EN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ_hu1puzfcR_F0QguVtPUk2bb7n78_27isw&usqp=CAU" group-title="News",EuroNews
+https://cdn6.goprimetime.info/feed/202105171329/LC35/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DW TV Asia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png" group-title="News",DW TV Asia
 #https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -134,11 +133,13 @@ http://103.47.132.164/PLTV/88888888/224/3221227337/03.m3u8
 #EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movie",Thrill
 #https://bukankaleng.co/live/d43az/1631981527/102.ts
 #http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-http://210.210.155.35/qwr9ew/s/s34/02.m3u8
+#http://210.210.155.35/qwr9ew/s/s34/02.m3u8
+https://cdn6.goprimetime.info/feed/202105171329/LC28/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Movie",Warner TV
 #https://bukankaleng.co/live/d43az/1631981527/83.ts
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745733
+#https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745733
+https://cdn6.goprimetime.info/feed/202105171329/LC26/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCJHlIMV-5avD6si8KFJc3dWBAuxKU-FONYw&usqp=CAU" group-title="Movie",&Flix
 http://143.244.60.10/HINDI__AND_FLIX_HD/tracks-v1a1/mono.m3u8?token=test
