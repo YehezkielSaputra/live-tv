@@ -277,9 +277,9 @@ https://cdn.hkdtmb.com/hls/84/index.m3u8
 http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVB J2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThtFd_dHCNC5Ap_qJr0IOiMTztHJwy9qf7nw&usqp=CAU" group-title="China",TDM Macau 2
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVB J2" tvg-logo="https://lh3.googleusercontent.com/proxy/VSNozdOZ8s5QoudGvXBVS2e_pzMnns1PKRUYlrDSbGKAk_l2mf6bkSfD9dLEoyXk958hQ62o5_QT7QkUEXSWhQyB-Ny_KgNdTd2b0OY93Pxq-odjE6CeTLPCNsjP8-0PCg" group-title="China",TDM Macau Sat
+#EXTINF:-1 tvg-id="" tvg-name="MY - TVB J2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmHVOXv9mv9fuXHuUo4re3cKrjZ7EkcKHcIA&usqp=CAU" group-title="China",TDM Macau Sat
 http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVB J2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmHVOXv9mv9fuXHuUo4re3cKrjZ7EkcKHcIA&usqp=CAU" group-title="China",TDM Macau Info
+#EXTINF:-1 tvg-id="" tvg-name="MY - TVB J2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThtFd_dHCNC5Ap_qJr0IOiMTztHJwy9qf7nw&usqp=CAU" group-title="China",TDM Macau Info
 http://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDTvGu_UHop8XrkzzlbZl2aIaK898UxECRRA&usqp=CAU" group-title="China",CTI
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745678
