@@ -365,10 +365,13 @@ http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqqUUY7cqG7fG4PxDkXibF2Aa9Cd8vWLAZvQ&usqp=CAU" group-title="Sport",Eurosport
 https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUxmSbQNMFd3x9RvInuN7aTnZspfS0_Ybo0A&usqp=CAU" group-title="Sport",Fox Sport 1
-https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
+#https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
+http://iptv.tvmalaysia.cc:80/989898/989898/6793
 #EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFO7GLRN_nbMUkmXf4y7RIjEsVmjM0prYhiQ&usqp=CAU" group-title="Sport",Fox Sport 2
-https://livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u8
+#https://livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u8
+http://iptv.tvmalaysia.cc:80/989898/989898/6791
 #EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3PI5NqUhzBiX4Q7_W0aw3T3pjpAIu8L9ukg&usqp=CAU" group-title="Sport",Fox Sport 3
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745746
+#https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745746
+http://iptv.tvmalaysia.cc:80/989898/989898/6792
 #EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="" group-title="Sport",Special for Wilson
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
