@@ -88,7 +88,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227329/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hits Movie SD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" group-title="Movie",Hits Movie
 http://103.47.132.164/PLTV/88888888/224/3221227331/04.m3u8
 #EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="Movie",KIX
-https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+https://bukankaleng.co/live/d43az/1631981527/117.ts
 #EXTINF:-1 tvg-id="Lifetime.id" tvg-name="LifeTime HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="Movie",LifeTime
 #http://103.47.132.164/PLTV/88888888/224/3221227337/03.m3u8
 https://bukankaleng.co/live/d43az/1631981527/84.ts
@@ -105,14 +106,18 @@ http://143.244.60.10/ENGLISH__AND_PRIVE_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK2xD8sMCO7vaN1G4G6x_48kaYAgOqzQVWYA&usqp=CAU" group-title="Movie",Lotus Macau
 https://cdn6.goprimetime.info/feed/202105171329/LC41/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png" group-title="Movie",CCM
-http://210.210.155.35/qwr9ew/s/s31/index.m3u8
+#http://210.210.155.35/qwr9ew/s/s31/index.m3u8
+https://bukankaleng.co/live/d43az/1631981527/119.ts
 #EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movie",Celestial Movies
 #http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-http://210.210.155.35:80/session/28969b54-e2f9-11eb-ba48-c81f66f89318/qwr9ew/s/s33/01.m3u8
+#http://210.210.155.35:80/session/28969b54-e2f9-11eb-ba48-c81f66f89318/qwr9ew/s/s33/01.m3u8
+https://bukankaleng.co/live/d43az/1631981527/118.ts
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="Movie",Star Chinese Movies
-http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
+#http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
+https://bukankaleng.co/live/d43az/1631981527/121.ts
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="https://www.infotelevisi.com/asset/images/tv/star_chinese_movies_legend.png" group-title="Movie",Star Chinese Movies Legend
-http://foctv.xyz:25510/Amir5641/YY5641/52
+#http://foctv.xyz:25510/Amir5641/YY5641/52
+https://bukankaleng.co/live/d43az/1631981527/120.ts
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="Movie",Star Chinese Movies Taiwan
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Star_Chinese_Channel_logo_2016.png" group-title="Movie",Star Chinese Channel
@@ -176,9 +181,11 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/playlist_sltha.m3u8
 #EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Kids",Animax
 #http://103.47.132.164/PLTV/88888888/224/3221227145/03.m3u8
-https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+#https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+https://bukankaleng.co/live/d43az/1631981527/112.ts
 #EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="Kids",Aniplus
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745754
+#https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745754
+https://bukankaleng.co/live/d43az/1631981527/113.ts
 #EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids",Baby First
 http://topwin-tv.my.id/2/chunklist.m3u8?id=babyfirst&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://mncvision.id/userfiles/image/channel/baby_tv.png" group-title="Kids",Baby TV
@@ -238,7 +245,7 @@ https://bukankaleng.co/live/d43az/1631981527/66.ts
 
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Channel V HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREOUe73tHR10sT5X2whn5OnkpTRfLcp9wBoQ&usqp=CAU" group-title="Variety",MTV
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745775
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Channel V HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-5B5l63R7_EiU8_8GcFW1RIaJ0Zk2tiiEw&usqp=CAU" group-title="Variety",MTV Live
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Channel V HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREOUe73tHR10sT5X2whn5OnkpTRfLcp9wBoQ&usqp=CAU" group-title="Variety",MTV Live
 https://bukankaleng.co/live/d43az/1631981527/67.ts
 #EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFnf22GZ9YOwThSvjiqOhWlfFy2G2Sn2RL9Q&usqp=CAU" group-title="Variety",NHK
 https://bukankaleng.co/live/d43az/1631981527/116.ts
@@ -253,10 +260,11 @@ http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSclgmZ6EBwXMHF4lhFDrm1GRKQWj8BVHHZPA&usqp=CAU" group-title="Variety",Tokyo MX2
 http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Waku waku japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="Variety", Waku Waku Japan
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/104
+#http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/104
+https://bukankaleng.co/live/d43az/1631981527/114.ts
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Waku waku japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy0QjeDIKfrFl1Sa4rjsqvr3i6CSmsjZfV3g&usqp=CAU" group-title="Variety", Sony GEM
-http://103.47.132.164/PLTV/88888888/224/3221227187/03.m3u8
-
+#http://103.47.132.164/PLTV/88888888/224/3221227187/03.m3u8
+https://bukankaleng.co/live/d43az/1631981527/115.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="arirang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTGcyVeEMssXvE6Om7_OYgvvtfmXvZ2eBMw&usqp=CAU" group-title="Korea",Arirang
@@ -276,10 +284,12 @@ https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8#https://5c3639aa99
 http://kkhyoyoyo.duckdns.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C00551&q=SD&apikey=0MENK2CJI5
 #EXTINF:-1 tvg-id="Kplus.id" tvg-name="K Plus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO6-C2rrbIluAaPVdHD9RbiSjdpJ4sR7MsXg&usqp=CAU" group-title="Korea",K Plus
 #http://210.210.155.35/session/c74a75b8-0196-11ea-bbc1-c81f66f89318/uq2663/h/h08/index.m3u8
-http://210.210.155.35:80/session/84d7ac94-d4af-11eb-a75d-c81f66f89318/uq2663/h/h08/01.m3u8?app_type=web&userid=j0eynx2jmkj&tkn=CX3D651BL0D8BG6WEI1WY0OYKLTVJ3MO&c
+#http://210.210.155.35:80/session/84d7ac94-d4af-11eb-a75d-c81f66f89318/uq2663/h/h08/01.m3u8?app_type=web&userid=j0eynx2jmkj&tkn=CX3D651BL0D8BG6WEI1WY0OYKLTVJ3MO&c
+https://bukankaleng.co/live/d43az/1631981527/111.ts
 #EXTINF:-1 tvg-id="" tvg-name="MY - KBS World HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2bOi7pMZWu9PKeJ4CoAKd9seCvWnymw5oBA&usqp=CAU" group-title="Korea",KBS World
 #https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+https://bukankaleng.co/live/d43az/1631981527/110.ts
 #EXTINF:-1 tvg-id="SonyOne.id" tvg-name="Sony ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png" group-title="Korea",Sony ONE
 http://103.47.132.164/PLTV/88888888/224/3221227143/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY - tvN HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="Korea",tvN
@@ -314,7 +324,8 @@ http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Viu" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_425_305" group-title="China",Viu 6
 http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Chinese Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3kv8pfA4NM0wBmewE4jABFbkUIxZubqVHw&usqp=CAU" group-title="China",Chinese Drama
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
+#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
+https://bukankaleng.co/live/d43az/1631981527/122.ts
 #EXTINF:-1 tvg-id="" tvg-name="Chinese Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="China",RTHK31
 https://cdn.hkdtmb.com/hls/31/index.m3u8#http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_5400_av-p.m3u8#http://teslagram.com/live/chan
 #EXTINF:-1 tvg-id="" tvg-name="Chinese Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="China",RTHK32
