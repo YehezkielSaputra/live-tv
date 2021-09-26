@@ -111,7 +111,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227161/02.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsia.my" tvg-name="Discovery Channel HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="Knowledge",Discovery Channel
 http://103.47.132.165/PLTV/88888888/224/3221227169/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/200px-Discovery_Science_2017_Logo.svg.png" group-title="Knowledge",Discovery Science
-https://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
+https://bukankaleng.co/live/d43az/1631981527/146.ts
 #EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="Knowledge",Discovery Turbo
 http://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 #EXTINF:-1 tvg-id="ABC.au" tvg-name="History FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="Knowledge",History
@@ -175,7 +175,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227115/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Variety",Blue Ant Entertainment
 http://103.47.132.164/PLTV/88888888/224/3221227333/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKdkY1njL95nIyLVxWl752cICskAeWDEpvbg&usqp=CAU" group-title="Variety",DMAX
-http://31.220.41.88:8081/live/dmax.stream/playlist.m3u8
+#http://31.220.41.88:8081/live/dmax.stream/playlist.m3u8
+https://bukankaleng.co/live/d43az/1631981527/147.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMNXi3voajCyv3Hy_MKGIWKrAyWA-nR5znbw&usqp=CAU" group-title="Variety",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" group-title="Variety",HGTV
@@ -190,6 +191,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227133/03.m3u8
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Channel V HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREOUe73tHR10sT5X2whn5OnkpTRfLcp9wBoQ&usqp=CAU" group-title="Variety",MTV
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745775
+#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFnf22GZ9YOwThSvjiqOhWlfFy2G2Sn2RL9Q&usqp=CAU" group-title="Variety",NHK
+https://bukankaleng.co/live/d43az/1631981527/116.ts
 #EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFnf22GZ9YOwThSvjiqOhWlfFy2G2Sn2RL9Q&usqp=CAU" group-title="Variety",NHK World Japan
 #https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227185/03.m3u8
@@ -288,7 +291,8 @@ http://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live/playlist.m3u8
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745678
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/FTV_Show_Group.png" group-title="China",Formosa TV
 #http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-https://4gtvfreemobile-mozai.4gtv.tv/Sh5zaH2rHUaID6SKbuIKG10y9SxeNCLieQ9nWKTXvqc%3d/master.m3u8?token=ujxpBdWjfL1pVbuHv8Sg2Q&expires=1614368115&token1=lu
+#https://4gtvfreemobile-mozai.4gtv.tv/Sh5zaH2rHUaID6SKbuIKG10y9SxeNCLieQ9nWKTXvqc%3d/master.m3u8?token=ujxpBdWjfL1pVbuHv8Sg2Q&expires=1614368115&token1=lu
+https://bukankaleng.co/live/d43az/1631981527/123.ts
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1-rcbb9sGfGmliEr3txhA1-vQevyOZYUGhw&usqp=CAU" group-title="China",SET Taiwan
 https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on#https://setlive-lh.akamaihd.net/i/s
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png" group-title="China",TVBS
@@ -333,7 +337,8 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="iQIYI HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb_dGXcn_9xRN70fg0LsE-0fjVa6E2p8nZTw&usqp=CAU" group-title="Malaysia",ASTRO iQIYI
 http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHUANG XING HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7r_q8AuAXUVImAf0XCvQJJWjwi77h6YsOtw&usqp=CAU" group-title="Malaysia",ASTRO SHUANG XING
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+https://bukankaleng.co/live/d43az/1631981527/140.ts
 #EXTINF:-1 tvg-id="" tvg-name="QUAN JIA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHX1tjfQXS5X9eCtBxRELtIKS4EJOPcvyIRw&usqp=CAU" group-title="Malaysia",ASTRO QUAN JIA
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AOD 351 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHxPu6VPFfNPiMQ2Yb36FKHNILtSq50RcN4g&usqp=CAU" group-title="Malaysia",ASTRO AOD
@@ -352,7 +357,7 @@ http://198.16.106.62:8278/streams/d/Channel5HD/playlist.m3u8
 http://198.16.106.62:8278/streams/d/ChannelU/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png" group-title="Malaysia",TV 8
 #http://feed.ruwet.xyz:8278/streams/d/TV8/playlist.m3u8
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+https://bukankaleng.co/live/d43az/1631981527/129.ts
 
 
 
