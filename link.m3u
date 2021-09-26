@@ -344,6 +344,8 @@ http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGVaARGuUJixgmGIrCUuCTSRoFk-wtNe7y7w&usqp=CAU" group-title="Sport",Astro Arena
+http://iptv.tvmalaysia.cc:80/989898/989898/9010
 #EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="Sport",Astro Supersport 1
 https://r2-sn-w5nuxa-o536.googlevideocdn.com/skycore/astro1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="Sport",Astro Supersport 2
