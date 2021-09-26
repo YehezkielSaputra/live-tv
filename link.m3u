@@ -34,9 +34,9 @@ http://103.47.132.164/PLTV/88888888/224/3221227319/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="Movie",Cinema World
 http://210.210.155.35:80/dr9445/h/h04/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movie",Cinemax
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJAPJRl_ZBANLbmqFFr9Ql-AHQwhf5foe4g&usqp=CAU" group-title="Movie",Fx
-https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FOX.id" tvg-name="FOX HD" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" group-title="Movie",FOX
 http://103.47.132.164/PLTV/88888888/224/3221227137/03.m3u8
 #EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Movie",FOX Action Movies
@@ -128,7 +128,12 @@ http://103.47.132.164/PLTV/88888888/224/3221227157/03.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227321/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png" group-title="Knowledge",DaAi Channel
 http://103.47.132.164/PLTV/88888888/224/3221227241/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png" group-title="Knowledge",DaAi Taiwan
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png" group-title="Knowledge",DaAi 1
+https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png" group-title="Knowledge",DaAi 2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 
 #EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG8XzLN3cGLldIIi-5ceJvND2IO0nOatG9ng&usqp=CAU" group-title="Kids",AniBox
@@ -204,13 +209,13 @@ http://103.47.132.164/PLTV/88888888/224/3221227187/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="arirang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTGcyVeEMssXvE6Om7_OYgvvtfmXvZ2eBMw&usqp=CAU" group-title="Korea",Arirang
 http://103.47.132.164/PLTV/88888888/224/3221227259/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="kbs2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png" group-title="Korea",KBS 2
-http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="sbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="Korea",SBS International
-https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8#https://streaming-a-802.cdn.nextol
+
 #EXTINF:-1 tvg-id="" tvg-name="sbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="Korea",SBS Plus
-https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/playlist.m3u8#https://streaming-a-802.cdn.nextologies.com/SBS_Pl
+
 #EXTINF:-1 tvg-id="" tvg-name="sbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="Korea",SBS Star
-https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="mbc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhTP5bpnoN61uId6MJkEXj_cRQE-_75yOnQQ&usqp=CAU" group-title="Korea",MBC
 #https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8#https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8#https://5c3639aa9
@@ -280,6 +285,8 @@ http://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live/playlist.m3u8
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745678
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/FTV_Show_Group.png" group-title="China",Formosa TV
 #http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1-rcbb9sGfGmliEr3txhA1-vQevyOZYUGhw&usqp=CAU" group-title="China",SET Taiwan
+http://pulltv1.wanfudaluye.com/live/tv2.m3u8
 https://4gtvfreemobile-mozai.4gtv.tv/Sh5zaH2rHUaID6SKbuIKG10y9SxeNCLieQ9nWKTXvqc%3d/master.m3u8?token=ujxpBdWjfL1pVbuHv8Sg2Q&expires=1614368115&token1=lu
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png" group-title="China",TVBS
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745681
