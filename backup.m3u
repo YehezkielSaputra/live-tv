@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-******************************************************************************* NEWS ***************************************************************************************************************************************************
+************************************ NEWS **********************************
 
 #EXTINF:-1 tvg-id="" tvg-name="Aljazeera EN" tvg-logo="https://mncvision.id/userfiles/image/channel/aljazeera.png" group-title="News",Aljazeera
 https://bukankaleng.co/live/d43az/1631981527/152.ts
@@ -41,7 +41,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227055/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Russia Today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/a/a0/20160830052851%21Russia-today-logo.svg/120px-Russia-today-logo.svg.png" group-title="News",Russia Today
 http://210.210.155.35/qwr9ew/s/s23/02.m3u8
 
-********************************************************************************* MOVIE ******************************************************************************************************************************************************
+************************************ MOVIE **********************************
 
 #EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="Movie",AXN
 https://bukankaleng.co/live/d43az/1631981527/87.ts
@@ -133,7 +133,7 @@ https://bukankaleng.co/live/d43az/1631981527/121.ts
 https://bukankaleng.co/live/d43az/1631981527/120.ts
 
 
-********************************************************************************* KNOWLEDGE ******************************************************************************************************************************************************
+************************************ KNOWLEDGE **********************************
 
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Animal Planet HD" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/channel-logo-animal-planet-1.png" group-title="Knowledge",Animal Planet
 http://103.47.132.164/PLTV/88888888/224/3221227173/02.m3u8
@@ -190,7 +190,7 @@ https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 
-********************************************************************************* KIDS ******************************************************************************************************************************************************
+************************************ CARTOON **********************************
 
 #EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG8XzLN3cGLldIIi-5ceJvND2IO0nOatG9ng&usqp=CAU" group-title="Kids",AniBox
 https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/playlist_sltha.m3u8
@@ -235,7 +235,7 @@ https://bukankaleng.co/live/d43az/1631981527/55.ts
 https://bukankaleng.co/live/d43az/1631981527/57.ts
 
 
-********************************************************************************* VARIETY ******************************************************************************************************************************************************
+************************************ VARIETY **********************************
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.my" tvg-name="AFN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Variety",AFN
 https://bukankaleng.co/live/d43az/1631981527/73.ts
@@ -294,7 +294,7 @@ https://bukankaleng.co/live/d43az/1631981527/114.ts
 https://bukankaleng.co/live/d43az/1631981527/115.ts
 
 
-********************************************************************************* KOREA ******************************************************************************************************************************************************
+************************************ KOREA **********************************
 
 #EXTINF:-1 tvg-id="" tvg-name="arirang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTGcyVeEMssXvE6Om7_OYgvvtfmXvZ2eBMw&usqp=CAU" group-title="Korea",Arirang
 http://103.47.132.164/PLTV/88888888/224/3221227259/04.m3u8
@@ -324,7 +324,7 @@ http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745691
 
 
-********************************************************************************* CHINA ******************************************************************************************************************************************************
+************************************ CHINA **********************************
 
 #EXTINF:-1 tvg-id="" tvg-name="Hunan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4TmF9zeheajqrX0h1TrfPyJ-nxlItSTGEqA&usqp=CAU" group-title="China",Shenzhen TV
 http://223.82.250.72/live/hdshenzhenstv/1.m3u8
@@ -489,7 +489,7 @@ http://198.16.106.62:8278/streams/d/ChannelU/playlist.m3u8
 https://bukankaleng.co/live/d43az/1631981527/129.ts
 
 
-********************************************************************************* SPORT ******************************************************************************************************************************************************
+************************************ SPORT **********************************
 
 #EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGVaARGuUJixgmGIrCUuCTSRoFk-wtNe7y7w&usqp=CAU" group-title="Sport",Astro Arena
 https://bukankaleng.co/live/d43az/1631981527/168.ts
