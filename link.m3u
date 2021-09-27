@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-******************************************************************************* NEWS ***************************************************************************************************************************************************
+************************************ NEWS **********************************
 
 #EXTINF:-1 tvg-id="" tvg-name="Aljazeera EN" tvg-logo="https://mncvision.id/userfiles/image/channel/aljazeera.png" group-title="News",Aljazeera
 #https://bukankaleng.co/live/d43az/1631981527/152.ts
@@ -48,7 +48,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227055/04.m3u8
 http://210.210.155.35/qwr9ew/s/s23/02.m3u8
 
 
-********************************************************************************* MOVIE ******************************************************************************************************************************************************
+************************************ MOVIE **********************************
 
 #EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="Movie",AXN
 #https://bukankaleng.co/live/d43az/1631981527/87.ts
@@ -179,7 +179,7 @@ http://foctv.xyz:25510/Amir5641/YY5641/52
 #EXTINF:-1 tvg-id="" tvg-name="Red By HBO HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="Movie",Red By HBO
 
 
-********************************************************************************* KNOWLEDGE ******************************************************************************************************************************************************
+************************************ KNOWLEDGE **********************************
 
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Animal Planet HD" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/channel-logo-animal-planet-1.png" group-title="Knowledge",Animal Planet
 http://103.47.132.164/PLTV/88888888/224/3221227173/02.m3u8
@@ -244,62 +244,62 @@ https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 
-********************************************************************************* KIDS ******************************************************************************************************************************************************
+************************************ CARTOON **********************************
 
-#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG8XzLN3cGLldIIi-5ceJvND2IO0nOatG9ng&usqp=CAU" group-title="Kids",AniBox
+#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG8XzLN3cGLldIIi-5ceJvND2IO0nOatG9ng&usqp=CAU" group-title="Cartoon",AniBox
 https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/playlist_sltha.m3u8
 
-#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Kids",Animax
+#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Cartoon",Animax
 #http://103.47.132.164/PLTV/88888888/224/3221227145/03.m3u8
 #https://bukankaleng.co/live/d43az/1631981527/112.ts
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 
-#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="Kids",Aniplus
+#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="Cartoon",Aniplus
 #https://bukankaleng.co/live/d43az/1631981527/113.ts
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745754
 
-#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids",Baby First
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Cartoon",Baby First
 http://topwin-tv.my.id/2/chunklist.m3u8?id=babyfirst&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://mncvision.id/userfiles/image/channel/baby_tv.png" group-title="Kids",Baby TV
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://mncvision.id/userfiles/image/channel/baby_tv.png" group-title="Cartoon",Baby TV
 http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids",Boomerang
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Cartoon",Boomerang
 #https://bukankaleng.co/live/d43az/1631981527/53.ts
 http://topwin-tv.my.id/2/chunklist.m3u8?id=boomerang&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-id="cartoonnetwork.id" tvg-name="Cartoon Network ID HD" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Kids",Cartoon Network
+#EXTINF:-1 tvg-id="cartoonnetwork.id" tvg-name="Cartoon Network ID HD" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Cartoon",Cartoon Network
 #https://bukankaleng.co/live/d43az/1631981527/49.ts
 http://topwin-tv.my.id/2/chunklist.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="Kids",CBeebies
+#EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="Cartoon",CBeebies
 http://103.47.132.164/PLTV/88888888/224/3221227353/03.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Cartoon",Disney Channel
 #https://bukankaleng.co/live/d43az/1631981527/45.ts
 http://103.47.132.164/PLTV/88888888/224/3221227183/03.m3u8
 
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney Junior" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Kids",Disney Junior
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney Junior" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Cartoon",Disney Junior
 #https://bukankaleng.co/live/d43az/1631981527/47.ts
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Dream Works HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEDvWad4egvRg8Ned0wM36Ewb0syq_8qEqg&usqp=CAU" group-title="Kids",Dream Works
+#EXTINF:-1 tvg-id="" tvg-name="Dream Works HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEDvWad4egvRg8Ned0wM36Ewb0syq_8qEqg&usqp=CAU" group-title="Cartoon",Dream Works
 #https://bukankaleng.co/live/d43az/1631981527/52.ts
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745771
 
-#EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="Nick Jr 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nick_Jr._2_logo.png/320px-Nick_Jr._2_logo.png" group-title="Kids",Nick Jr
+#EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="Nick Jr 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nick_Jr._2_logo.png/320px-Nick_Jr._2_logo.png" group-title="Cartoon",Nick Jr
 http://topwin-tv.my.id/2/chunklist.m3u8?id=nickelodeon&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Kids",Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Cartoon",Nickelodeon
 #https://bukankaleng.co/live/d43az/1631981527/55.ts
 http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Kids",Nick Jr
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Cartoon",Nick Jr
 #https://bukankaleng.co/live/d43az/1631981527/57.ts
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 
 
-********************************************************************************* VARIETY ******************************************************************************************************************************************************
+************************************ VARIETY **********************************
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.my" tvg-name="AFN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Variety",AFN
 #https://bukankaleng.co/live/d43az/1631981527/73.ts
@@ -368,7 +368,7 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/104
 http://103.47.132.164/PLTV/88888888/224/3221227187/03.m3u8
 
 
-********************************************************************************* KOREA ******************************************************************************************************************************************************
+************************************ KOREA **********************************
 
 #EXTINF:-1 tvg-id="" tvg-name="arirang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTGcyVeEMssXvE6Om7_OYgvvtfmXvZ2eBMw&usqp=CAU" group-title="Korea",Arirang
 http://103.47.132.164/PLTV/88888888/224/3221227259/04.m3u8
@@ -415,7 +415,7 @@ http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745691
 
 
-********************************************************************************* CHINA ******************************************************************************************************************************************************
+************************************ CHINA **********************************
 
 #EXTINF:-1 tvg-id="" tvg-name="Hunan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4TmF9zeheajqrX0h1TrfPyJ-nxlItSTGEqA&usqp=CAU" group-title="China",Shenzhen TV
 http://223.82.250.72/live/hdshenzhenstv/1.m3u8
@@ -550,7 +550,7 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 
 
-********************************************************************************* MALAYSIA ******************************************************************************************************************************************************
+************************************ MALAYSIA **********************************
 
 #EXTINF:-1 tvg-id="" tvg-name="iQIYI HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb_dGXcn_9xRN70fg0LsE-0fjVa6E2p8nZTw&usqp=CAU" group-title="Malaysia",ASTRO iQIYI
 http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
@@ -588,7 +588,7 @@ http://198.16.106.62:8278/streams/d/ChannelU/playlist.m3u8
 http://feed.ruwet.xyz:8278/streams/d/TV8/playlist.m3u8
 
 
-********************************************************************************* SPORT ******************************************************************************************************************************************************
+************************************ SPORT **********************************
 
 #EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGVaARGuUJixgmGIrCUuCTSRoFk-wtNe7y7w&usqp=CAU" group-title="Sport",Astro Arena
 #https://bukankaleng.co/live/d43az/1631981527/168.ts
