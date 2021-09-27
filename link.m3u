@@ -15,7 +15,7 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 http://ott-cdn.ucom.am/s24/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Aljazeera EN" tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/bloomberg-_160506092317-318.jpg" group-title="News",Bloomberg
-#https://bukankaleng.co/live/d43az/1631981527/153.ts
+https://bukankaleng.co/live/d43az/1631981527/153.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title="News",CGTN
 http://103.47.132.164/PLTV/88888888/224/3221227311/index.m3u8
@@ -94,10 +94,10 @@ http://103.47.132.164/PLTV/88888888/224/3221227277/03.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227119/03.m3u8
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://www.useetv.com/pimages/tvposter/galaxy.png" group-title="Movie",Galaxy
-#https://bukankaleng.co/live/d43az/1631981527/28.ts
+https://bukankaleng.co/live/d43az/1631981527/28.ts
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://www.useetv.com/pimages/logogrey/grey_logo_galaxypremium_big.png" group-title="Movie",Galaxy Premium
-#https://bukankaleng.co/live/d43az/1631981527/29.ts
+https://bukankaleng.co/live/d43az/1631981527/29.ts
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="Movie",HBO
 #https://bukankaleng.co/live/d43az/1631981527/95.ts
@@ -438,10 +438,9 @@ http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/zhejiang/350/index
 
 #EXTINF:-1 tvg-id="" tvg-name="Phoenix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpXXV3vZDP_-M_itIkkGysxDXZZB42Y48aVQ&usqp=CAU" group-title="China",Phoenix
 #http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
-
 http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Viu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE0ugYtjruTjdFVGt25KvL8cokKV7mkJz60Q&usqp=CAU" group-title="China",Viu
 
+#EXTINF:-1 tvg-id="" tvg-name="Viu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE0ugYtjruTjdFVGt25KvL8cokKV7mkJz60Q&usqp=CAU" group-title="China",Viu
 #https://cdn.hkdtmb.com/hls/99/index.m3u8
 http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 
