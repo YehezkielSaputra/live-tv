@@ -181,7 +181,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227161/02.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227169/2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/200px-Discovery_Science_2017_Logo.svg.png" group-title="Knowledge",Discovery Science
-https://bukankaleng.co/live/d43az/1631981527/146.ts
+https://idvd.multitvsolution.com/idvo/discoversciencehindi.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="Knowledge",Discovery Turbo
 http://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
@@ -223,29 +223,21 @@ https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745754
 
 #EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Cartoon",Baby First
-http://topwin-tv.my.id/2/chunklist.m3u8?id=babyfirst&bandwidth=default&sync=0
+https://bukankaleng.co/live/d43az/1631981527/56.ts
 
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://mncvision.id/userfiles/image/channel/baby_tv.png" group-title="Cartoon",Baby TV
 http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Cartoon",Boomerang
-#https://bukankaleng.co/live/d43az/1631981527/53.ts
-http://topwin-tv.my.id/2/chunklist.m3u8?id=boomerang&bandwidth=default&sync=0
+#https://bukankaleng.co/live/d43az/1631981527/44.ts
+
 
 #EXTINF:-1 tvg-id="cartoonnetwork.id" tvg-name="Cartoon Network ID HD" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Cartoon",Cartoon Network
-#https://bukankaleng.co/live/d43az/1631981527/49.ts
-http://topwin-tv.my.id/2/chunklist.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
+#https://bukankaleng.co/live/d43az/1631981527/40.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="Cartoon",CBeebies
 http://103.47.132.164/PLTV/88888888/224/3221227353/03.m3u8
-
-#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Cartoon",Disney Channel
-#https://bukankaleng.co/live/d43az/1631981527/45.ts
-http://103.47.132.164/PLTV/88888888/224/3221227183/03.m3u8
-
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney Junior" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Cartoon",Disney Junior
-#https://bukankaleng.co/live/d43az/1631981527/47.ts
-http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Dream Works HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEDvWad4egvRg8Ned0wM36Ewb0syq_8qEqg&usqp=CAU" group-title="Cartoon",Dream Works
 #https://bukankaleng.co/live/d43az/1631981527/52.ts
@@ -260,7 +252,6 @@ http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="Nick Jr 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nick_Jr._2_logo.png/320px-Nick_Jr._2_logo.png" group-title="Cartoon",Nick Jr 2
-http://topwin-tv.my.id/2/chunklist.m3u8?id=nickelodeon&bandwidth=default&sync=0
 
 
 ************************************ VARIETY **********************************
@@ -329,7 +320,7 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/104
 
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Waku waku japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy0QjeDIKfrFl1Sa4rjsqvr3i6CSmsjZfV3g&usqp=CAU" group-title="Variety", Sony GEM
 #https://bukankaleng.co/live/d43az/1631981527/115.ts
-http://103.47.132.164/PLTV/88888888/224/3221227187/03.m3u8
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 
 
 ************************************ KOREA **********************************
