@@ -231,10 +231,8 @@ http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Cartoon",Boomerang
 #https://bukankaleng.co/live/d43az/1631981527/44.ts
 
-
 #EXTINF:-1 tvg-id="cartoonnetwork.id" tvg-name="Cartoon Network ID HD" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Cartoon",Cartoon Network
 #https://bukankaleng.co/live/d43az/1631981527/40.ts
-
 
 #EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="Cartoon",CBeebies
 http://103.47.132.164/PLTV/88888888/224/3221227353/03.m3u8
@@ -295,7 +293,7 @@ https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745775
 
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Channel V HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREOUe73tHR10sT5X2whn5OnkpTRfLcp9wBoQ&usqp=CAU" group-title="Variety",MTV Live
-https://bukankaleng.co/live/d43az/1631981527/67.ts
+https://bukankaleng.co/live/d43az/1631981527/57.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFnf22GZ9YOwThSvjiqOhWlfFy2G2Sn2RL9Q&usqp=CAU" group-title="Variety",NHK
 https://bukankaleng.co/live/d43az/1631981527/109.ts
