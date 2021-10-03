@@ -579,6 +579,9 @@ http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqqUUY7cqG7fG4PxDkXibF2Aa9Cd8vWLAZvQ&usqp=CAU" group-title="Sport",Eurosport
 https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="Sport",Fox Sport Australia
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt9e258f9dbc43612f/603d748dff74f15954098bb7/PremierLeague_ModalChannelLogo.png" group-title="Sport",Sky Sport
 http://stream.tvtap.live:8081/live/skysportsf1.stream/playlist.m3u8
 
