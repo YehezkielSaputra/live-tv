@@ -285,11 +285,6 @@ http://103.47.132.164/PLTV/88888888/224/3221227113/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 5 Monde Asie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUFKYLyAOShVN-v_MANZPinYsLXOXSU-VRNQ&usqp=CAU" group-title="Variety",TV 5 Monde
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
 
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Channel V HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="Variety",Channel V
-https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Channel V HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-5B5l63R7_EiU8_8GcFW1RIaJ0Zk2tiiEw&usqp=CAU" group-title="Variety",Channel V HD
-
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Channel V HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREOUe73tHR10sT5X2whn5OnkpTRfLcp9wBoQ&usqp=CAU" group-title="Variety",MTV
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745775
 
