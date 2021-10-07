@@ -370,17 +370,16 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745691
 ************************************ CHINA **********************************
 
 #EXTINF:-1 tvg-id="" tvg-name="Hunan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4TmF9zeheajqrX0h1TrfPyJ-nxlItSTGEqA&usqp=CAU" group-title="China",Shenzhen TV
-http://223.82.250.72/live/hdshenzhenstv/1.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Hunan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/HunanTV_logo.png" group-title="China",Hunan TV
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/hnwshd/2300000/mnf.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Dragon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJhA31G4_a4iFhyWK1GQnuWZa9OyPF8PgTA&usqp=CAU" group-title="China",Dragon TV
-#http://39.135.137.7:80/wh7f454c46tw3003992945_-2002602306/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/1590395260-1.m3u8
-http://210.210.155.35/qwr9ew/s/s29/02.m3u8
+http://rr2.dens.tv/s/s29/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Jiangsu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bQMKc71z8PtWPzgvGQwyfq6ZQDGt0W1mng&usqp=CAU" group-title="China",Jiangsu TV
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/jswshd/2300000/mnf.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Jiangsu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWSMCmTI5Pl7tqQ-XqUNPaRGhxdOA2A_cdKw&usqp=CAU" group-title="China",Anhui TV
 http://39.130.202.114:6610/gitv_live/G_ANHUI-HD/G_ANHUI-HD.m3u8
@@ -389,8 +388,7 @@ http://39.130.202.114:6610/gitv_live/G_ANHUI-HD/G_ANHUI-HD.m3u8
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/zhejiang/350/index.m3u8?ProgramID=&encrypt=1
 
 #EXTINF:-1 tvg-id="" tvg-name="Phoenix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpXXV3vZDP_-M_itIkkGysxDXZZB42Y48aVQ&usqp=CAU" group-title="China",Phoenix
-#http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
-http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
+http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Viu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE0ugYtjruTjdFVGt25KvL8cokKV7mkJz60Q&usqp=CAU" group-title="China",Viu
 #https://cdn.hkdtmb.com/hls/99/index.m3u8
@@ -454,7 +452,7 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745681
 http://103.47.132.164/PLTV/88888888/224/3221227263/04.m3u8
 
 #EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG8XzLN3cGLldIIi-5ceJvND2IO0nOatG9ng&usqp=CAU" group-title="China",ELTA HD
-http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="MY - CCTV1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe1g3z00focKBt8EEf737ZBNZKY3CBxXawXQ&usqp=CAU" group-title="China",CCTV 1
 http://39.135.34.150:8080/000000001000/1000000001000021973/1.m3u8?php?id=01
