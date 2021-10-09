@@ -413,6 +413,9 @@ https://cdn.hkdtmb.com/hls/33/index.m3u8#http://185.207.176.189:8080/channels/tv
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVB JADE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1UdSJCmvb5Jh8wCDW0oaq-kbeqBYWugGCIA&usqp=CAU" group-title="China",TVB JADE
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="MY - TVB JADE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-T9C_dr7l8ikhKDXfMTtw0_Mla8jMQ6qMQQ&usqp=CAU" group-title="China",TVB Entertainment
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745679
+
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVB XING HE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgUGHtQpsWuio9I2a667qH8Gx9uUFqU2V8wQ&usqp=CAU" group-title="China",TVB XING HE
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
