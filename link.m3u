@@ -153,6 +153,8 @@ http://210.210.155.35/qwr9ew/s/s31/index.m3u8
 #https://bukankaleng.co/live/d43az/1631981527/118.ts
 http://210.210.155.35:80/session/28969b54-e2f9-11eb-ba48-c81f66f89318/qwr9ew/s/s33/01.m3u8
 
+#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movie",CHC Action
+http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 
 
 ************************************ KNOWLEDGE **********************************
