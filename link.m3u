@@ -79,7 +79,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
 http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6155/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://www.useetv.com/pimages/logogrey/grey_logo_galaxypremium_big.png" group-title="Movie",Galaxy Premium
-https://bukankaleng.co/live/d43az/1631981527/29.ts
+https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="Movie",HBO
 #https://bukankaleng.co/live/d43az/1631981527/95.ts
@@ -531,8 +531,11 @@ http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AEC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfG8cLpxtZPe3NMLrd7S5knrdJ4ANR0m5W_Q&usqp=CAU" group-title="Malaysia",ASTRO AEC
 http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="AEC HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Astro_Xiao_Tai_Yang_(2019).png" group-title="Malaysia",ASTRO XIAO TAI YANG
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="HUA HEE DAI HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd9teZHebGjJ-qW3RNb6mh7Zcmg8ikmOOG6g&usqp=CAU" group-title="Malaysia",ASTRO HUA HEE DAI
-http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+http://50.7.161.82:8277/streams/d/huanxi_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="WAH LAI TOI HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV3c85sBdNV2nu2SkKhjrkVmtMerun9ef1yA&usqp=CAU" group-title="Malaysia",ASTRO WAH LAI TOI
 http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
