@@ -35,7 +35,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Aljazeera EN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ_hu1puzfcR_F0QguVtPUk2bb7n78_27isw&usqp=CAU" group-title="News",EuroNews
-https://cdn6.goprimetime.info/feed/202105171329/LC35/index.m3u8
+http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DW TV Asia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png" group-title="News",DW TV Asia
 #https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -73,21 +73,21 @@ http://210.210.155.35:80/dr9445/h/h04/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movie",Cinemax
 #https://bukankaleng.co/live/d43az/1631981527/99.ts
-https://dl.dropboxusercontent.com/s/1nqhsz02w72ojjl/MAX.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://www.useetv.com/pimages/tvposter/galaxy.png" group-title="Movie",Galaxy
-https://bukankaleng.co/live/d43az/1631981527/28.ts
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movie",Cinemax MovieMax
+http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6155/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://www.useetv.com/pimages/logogrey/grey_logo_galaxypremium_big.png" group-title="Movie",Galaxy Premium
 https://bukankaleng.co/live/d43az/1631981527/29.ts
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="Movie",HBO
 #https://bukankaleng.co/live/d43az/1631981527/95.ts
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movie",HBO Family
 #https://bukankaleng.co/live/d43az/1631981527/96.ts
-http://31.220.41.88:8081/live/us-hbofamily.stream/playlist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie",HBO Hits
 #https://bukankaleng.co/live/d43az/1631981527/97.ts
