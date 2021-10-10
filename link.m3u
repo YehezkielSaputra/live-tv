@@ -13,8 +13,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BBC World News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/150px-BBC_World_News_2019.svg.png" group-title="News",BBC World News
-#https://bukankaleng.co/live/d43az/1631981527/148.ts
-http://ott-cdn.ucom.am/s24/index.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227171/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/422_144.png" group-title="News" tvg-id="517" tvg-name="517",Bloomberg
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
@@ -160,7 +159,7 @@ http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 ************************************ KNOWLEDGE **********************************
 
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Animal Planet HD" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/channel-logo-animal-planet-1.png" group-title="Knowledge",Animal Planet
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227173/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DAr3T2Z.png" group-title="Knowledge",Crime Investigation
 http://103.47.132.164/PLTV/88888888/224/3221227341/02.m3u8
@@ -169,10 +168,6 @@ http://103.47.132.164/PLTV/88888888/224/3221227341/02.m3u8
 #http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
 #https://bukankaleng.co/live/d43az/1631981527/75.ts
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745764
-
-#EXTINF:-1 tvg-id="CrimeInvestigation.id" tvg-name="Crime Investigation" tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="Knowledge",Crime Investigation
-#https://bukankaleng.co/live/d43az/1631981527/100.ts
-http://103.47.132.164/PLTV/88888888/224/3221227341/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1024px-Discovery_Asia_logo.svg.png" group-title="Knowledge",Discovery Asia
 #https://bukankaleng.co/live/d43az/1631981527/79.ts
@@ -200,9 +195,6 @@ http://stream.tvtap.live:8081/live/us-natgeo.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Smithsonian_Channel.png/220px-Smithsonian_Channel.png" group-title="Knowledge",Smithsonian Channel
 http://103.47.132.164/PLTV/88888888/224/3221227321/04.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png" group-title="Knowledge",DaAi Channel
-http://103.47.132.164/PLTV/88888888/224/3221227241/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png" group-title="Knowledge",DaAi Taiwan
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 
@@ -219,7 +211,7 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/playlist_sltha.m3u8
 
 #EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Cartoon",Animax
-http://210.210.155.35:80/session/25c022fe-d4af-11eb-ae09-c81f66f89318/dr9445/h/h144/01.m3u8?app_type=web&userid=j0eynx2jmkj&tkn=CX3D651BL0D8B
+http://103.47.132.164/PLTV/88888888/224/3221227145/03.m3u8
 
 #EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="Cartoon",Aniplus
 #https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745754
@@ -289,8 +281,7 @@ http://31.220.41.88:8081/live/dmax.stream/playlist.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" group-title="Variety",HGTV
-#https://bukankaleng.co/live/d43az/1631981527/72.ts
-http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227035/04.m3u8
 
 #EXTINF:-1 tvg-id="ABC.au" tvg-name="TLC HD" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg" group-title="Variety",TLC
 http://103.47.132.164/PLTV/88888888/224/3221227113/03.m3u8
