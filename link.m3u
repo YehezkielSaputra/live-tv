@@ -17,7 +17,8 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227171/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/422_144.png" group-title="News" tvg-id="517" tvg-name="517",Bloomberg
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227269/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title="News",CGTN
 http://103.47.132.164/PLTV/88888888/224/3221227311/index.m3u8
@@ -46,11 +47,10 @@ http://103.47.132.164/PLTV/88888888/224/3221227181/03.m3u8
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png" group-title="News",France 24
-#https://livecdn.fptplay.net/world/france24_hls.smil/chunklist.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227055/04.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Russia Today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/a/a0/20160830052851%21Russia-today-logo.svg/120px-Russia-today-logo.svg.png" group-title="News",Russia Today
-http://210.210.155.35/qwr9ew/s/s23/02.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227275/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/155_144.png" group-title="News" tvg-id="514" tvg-name="514",Sky News
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745703
@@ -258,6 +258,9 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745724
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1200px-PBS_Kids_Logo.svg.png" group-title="Cartoon",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="Cartoon",ZooMoo
+http://103.47.132.164/PLTV/88888888/224/3221227323/index.m3u8
+
 
 ************************************ VARIETY **********************************
 
@@ -288,7 +291,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227035/04.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227113/03.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV 5 Monde Asie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUFKYLyAOShVN-v_MANZPinYsLXOXSU-VRNQ&usqp=CAU" group-title="Variety",TV 5 Monde
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227067/index.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Channel V HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREOUe73tHR10sT5X2whn5OnkpTRfLcp9wBoQ&usqp=CAU" group-title="Variety",MTV
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745775
@@ -318,8 +321,7 @@ http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/104
 
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Waku waku japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy0QjeDIKfrFl1Sa4rjsqvr3i6CSmsjZfV3g&usqp=CAU" group-title="Variety", Sony GEM
-#https://bukankaleng.co/live/d43az/1631981527/115.ts
-http://210.210.155.35:80/uq2663/h/h19/01.m3u8 
+http://103.47.132.164/PLTV/88888888/224/3221227187/index.m3u8 
 
 
 ************************************ KOREA **********************************
