@@ -469,7 +469,8 @@ http://223.110.241.137:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/.m3u8
 http://223.110.241.137:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MY - CCTV4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVePCxY2rUGMte6xAAqfwQ1IIpyUZuyW65SA&usqp=CAU" group-title="China",CCTV 4
-http://223.110.241.137:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/.m3u8
+#http://223.110.241.137:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227303/04.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MY - CCTV5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkK3Oc8haCyp3HijMYTohP01xwhCIkDDeulg&usqp=CAU" group-title="China",CCTV 5
 http://223.110.241.137:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/.m3u8
