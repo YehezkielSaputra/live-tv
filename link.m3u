@@ -7,7 +7,8 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 
 #EXTINF:-1 tvg-id="" tvg-name="Aljazeera EN" tvg-logo="https://mncvision.id/userfiles/image/channel/aljazeera.png" group-title="News",Aljazeera
 #https://bukankaleng.co/live/d43az/1631981527/152.ts
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227267/04.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiROS1B-NgSh2_h71UvrK1cYKszzZgZihQg&usqp=CAU" group-title="News",ASTRO AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
