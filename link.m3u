@@ -150,12 +150,6 @@ http://210.210.155.35/qwr9ew/s/s31/index.m3u8
 #https://bukankaleng.co/live/d43az/1631981527/118.ts
 http://210.210.155.35:80/session/28969b54-e2f9-11eb-ba48-c81f66f89318/qwr9ew/s/s33/01.m3u8
 
-#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9dUyBa8J1KhT6mDGjRY9TVYE-giS1oYf9QQ&usqp=CAU" group-title="Movie",SCM Taiwan
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-
-#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="" group-title="Movie",CHC Action
-http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
-
 
 ************************************ KNOWLEDGE **********************************
 
@@ -358,9 +352,7 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227143/03.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MY - tvN HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="Korea",tvN
-#https://bukankaleng.co/live/d43az/1631981527/108.ts
-http://210.210.155.35/dr9445/h/h20/02.m3u8
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745692
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVNMovies.id" tvg-name="tVN Movies HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTiLRA2QhTQQrDpfY7m-wJSLEggFESRIjKA&usqp=CAU" group-title="Korea",tVN Movies
 #http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tvnmovies
@@ -533,7 +525,10 @@ http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 http://50.7.161.82:8277/streams/d/huanxi_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="WAH LAI TOI HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV3c85sBdNV2nu2SkKhjrkVmtMerun9ef1yA&usqp=CAU" group-title="Malaysia",ASTRO WAH LAI TOI
-http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+http://50.7.161.82:8278/streams/d/hualee_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="WAH LAI TOI HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV3c85sBdNV2nu2SkKhjrkVmtMerun9ef1yA&usqp=CAU" group-title="Malaysia",ASTRO XIAO TAI YANG
+http://50.7.161.82:8278/streams/d/xiaotaiyang_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Channel8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFXNfHpmzt1IUCY7wdYo-qFetELz2mlf-p4g&usqp=CAU" group-title="Malaysia",Channel 8
 http://198.16.106.62:8278/streams/d/Channel8HD/playlist.m3u8
