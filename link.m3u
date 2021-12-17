@@ -6,9 +6,8 @@
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_43.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Aljazeera EN" tvg-logo="https://mncvision.id/userfiles/image/channel/aljazeera.png" group-title="News",Aljazeera
-#https://bukankaleng.co/live/d43az/1631981527/152.ts
-#https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-http://103.47.132.164/PLTV/88888888/224/3221227267/04.m3u8
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiROS1B-NgSh2_h71UvrK1cYKszzZgZihQg&usqp=CAU" group-title="News",ASTRO AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
@@ -21,7 +20,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227171/2.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227269/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title="News",CGTN
-http://103.47.132.164/PLTV/88888888/224/3221227311/index.m3u8
+http://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/220px-CGTN.png" group-title="News",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
@@ -78,8 +77,11 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movie",Cinemax MovieMax
 http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6155/index.m3u8
 
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://www.useetv.com/pimages/logogrey/grey_logo_galaxypremium_big.png" group-title="Movie",Galaxy
+http://urtv.cc:80/jalan8/jalan8/8839
+
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://www.useetv.com/pimages/logogrey/grey_logo_galaxypremium_big.png" group-title="Movie",Galaxy Premium
-https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
+http://urtv.cc:80/jalan8/jalan8/8838
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="Movie",HBO
 #https://bukankaleng.co/live/d43az/1631981527/95.ts
@@ -321,7 +323,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227187/index.m3u8
 ************************************ KOREA **********************************
 
 #EXTINF:-1 tvg-id="" tvg-name="arirang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTGcyVeEMssXvE6Om7_OYgvvtfmXvZ2eBMw&usqp=CAU" group-title="Korea",Arirang
-http://103.47.132.164/PLTV/88888888/224/3221227259/04.m3u8
+https://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="kbs2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png" group-title="Korea",KBS 2
 
