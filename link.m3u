@@ -153,59 +153,53 @@ http://iptv12k.com:35461/8022022301/468985/1792
 
 ************************************ CARTOON **********************************
 
-#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG8XzLN3cGLldIIi-5ceJvND2IO0nOatG9ng&usqp=CAU" group-title="Cartoon",AniBox
-https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/playlist_sltha.m3u8
-
 #EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Cartoon",Animax
-http://103.47.132.164/PLTV/88888888/224/3221227145/03.m3u8
+http://iptv12k.com:35461/8022022301/468985/605
 
 #EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="Cartoon",Aniplus
-#https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745754
-http://210.210.155.35:80/session/c82f3656-d4af-11eb-b0a7-c81f66f89318/dr9445/h/h02/01.m3u8?app_type=web&userid=j0eynx2jmkj&tkn=CX3D651BL0D8BG6WEI1WY0OYKL
+http://iptv12k.com:35461/8022022301/468985/2098
 
 #EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Cartoon",Baby First
-http://livecdn.fptplay.net/hda1/babyfirst_4000.stream/chunklist.m3u8
+http://iptv12k.com:35461/8022022301/468985/2095
 
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://mncvision.id/userfiles/image/channel/baby_tv.png" group-title="Cartoon",Baby TV
-http://livecdn.fptplay.net/hda3/babytvhd_4000.stream/chunklist.m3u8
+http://iptv12k.com:35461/8022022301/468985/1792
 
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Cartoon",Boomerang
-http://livecdn.fptplay.net/hda3/boomerang_4000.stream/chunklist.m3u8
+http://iptv12k.com:35461/8022022301/468985/2097
 
 #EXTINF:-1 tvg-id="cartoonnetwork.id" tvg-name="Cartoon Network ID HD" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Cartoon",Cartoon Network
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745722
+http://iptv12k.com:35461/8022022301/468985/2094
 
 #EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="Cartoon",CBeebies
-http://103.47.132.164/PLTV/88888888/224/3221227353/03.m3u8
+http://iptv12k.com:35461/8022022301/468985/2093
 
 #EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Cartoon",Disney XD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745719
+http://iptv12k.com:35461/8022022301/468985/2091
 
 #EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Cartoon",Disney Junior
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745720
+http://iptv12k.com:35461/8022022301/468985/2092
 
 #EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Cartoon",Disney Channel
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745721
+http://iptv12k.com:35461/8022022301/468985/2090
 
 #EXTINF:-1 tvg-id="" tvg-name="Dream Works HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEDvWad4egvRg8Ned0wM36Ewb0syq_8qEqg&usqp=CAU" group-title="Cartoon",Dreamworks
-#https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745771
-http://livecdn.fptplay.net/hda3/dreamworks_4000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Dream Works HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReQMH5Z14crn8qMeUE8mmDROyoSiQpptyHgw&usqp=CAU" group-title="Cartoon",EBS Kids
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w2046056257.m3u8
+http://iptv12k.com:35461/8022022301/468985/6894
 
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Cartoon",Nickelodeon
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745723
+http://iptv12k.com:35461/8022022301/468985/2072
 
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="Cartoon",Nick Jr
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745724
+http://iptv12k.com:35461/8022022301/468985/2088
 
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1200px-PBS_Kids_Logo.svg.png" group-title="Cartoon",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="Cartoon",ZooMoo
-http://103.47.132.164/PLTV/88888888/224/3221227323/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JP: キッズステーションHD JP" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-552-400x400.png" group-title="Cartoon",Japan Kids
+http://iptv12k.com:35461/8022022301/468985/3153
 
+#EXTINF:-1 tvg-id="" tvg-name="KR: 迪士尼JU KR" tvg-logo="https://i.pinimg.com/originals/36/e8/06/36e8065d8dd3c0ca0e714e05ae0dd6b1.jpg" group-title="Cartoon",Korean Cartoon
+http://iptv12k.com:35461/8022022301/468985/3221
 
 ************************************ VARIETY **********************************
 
