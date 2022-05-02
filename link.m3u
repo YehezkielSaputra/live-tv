@@ -206,7 +206,7 @@ http://iptv12k.com:35461/8022022301/468985/3221
 #EXTINF:-1 tvg-id="AsianFoodNetwork.my" tvg-name="AFN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Variety",AFN
 http://iptv12k.com:35461/8022022301/468985/2058
 
-#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png" group-title="Variety",BBC Lifestyle
+#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle HD" tvg-logo="https://cms.bbcasia.com/sites/default/files/2021-05/Lifestyle.jpg" group-title="Variety",BBC Lifestyle
 http://iptv12k.com:35461/8022022301/468985/2061
 
 #EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Variety",Rock Entertainment
