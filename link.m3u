@@ -51,89 +51,61 @@ http://iptv12k.com:35461/8022022301/468985/591
 ************************************ MOVIE **********************************
 
 #EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="Movie",AXN
-http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+http://iptv12k.com:35461/8022022301/468985/180
 
 #EXTINF:-1 tvg-id="" tvg-name="Blue Ant Extreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Rock_Extreme.png" group-title="Movie",Rock Extreme
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="Movie",Cinema World
-#https://bukankaleng.co/live/d43az/1631981527/31.ts
 http://210.210.155.35:80/dr9445/h/h04/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movie",Cinemax
-#https://bukankaleng.co/live/d43az/1631981527/99.ts
-https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
+http://iptv12k.com:35461/8022022301/468985/255
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movie",Cinemax MovieMax
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6155/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://www.useetv.com/pimages/logogrey/grey_logo_galaxypremium_big.png" group-title="Movie",Galaxy
-http://urtv.cc:80/jalan8/jalan8/8839
-
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://www.useetv.com/pimages/logogrey/grey_logo_galaxypremium_big.png" group-title="Movie",Galaxy Premium
-http://urtv.cc:80/jalan8/jalan8/8838
+http://iptv12k.com:35461/8022022301/468985/1883
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="Movie",HBO
-#https://bukankaleng.co/live/d43az/1631981527/95.ts
-https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
+http://iptv12k.com:35461/8022022301/468985/1748
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movie",HBO Family
-#https://bukankaleng.co/live/d43az/1631981527/96.ts
-https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+http://iptv12k.com:35461/8022022301/468985/1746
 
 #EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie",HBO Hits
-#https://bukankaleng.co/live/d43az/1631981527/97.ts
-https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+http://iptv12k.com:35461/8022022301/468985/598
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movie",HBO Signature
-#https://bukankaleng.co/live/d43az/1631981527/98.ts
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+http://iptv12k.com:35461/8022022301/468985/1740
 
 #EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS HD" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" group-title="Movie",HITS
-http://103.47.132.164/PLTV/88888888/224/3221227329/03.m3u8
+http://iptv12k.com:35461/8022022301/468985/603
 
 #EXTINF:-1 tvg-id="" tvg-name="Hits Movie SD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" group-title="Movie",Hits Movie
-http://103.47.132.164/PLTV/88888888/224/3221227331/04.m3u8
+http://iptv12k.com:35461/8022022301/468985/181
 
 #EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="Movie",KIX
-http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
+http://iptv12k.com:35461/8022022301/468985/2125
 
 #EXTINF:-1 tvg-id="Lifetime.id" tvg-name="LifeTime HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="Movie",LifeTime
-#https://bukankaleng.co/live/d43az/1631981527/84.ts
-http://103.47.132.164/PLTV/88888888/224/3221227337/03.m3u8
+http://iptv12k.com:35461/8022022301/468985/2110
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png" group-title="Movie" tvg-id="408" tvg-name="408", Paramount
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745777
+http://iptv12k.com:35461/8022022301/468985/4341
 
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/152-1523708_pbs-logo-pbs-tv-logo-png-transparent-png.png" group-title="Movie" tvg-id="CHN" tvg-name="CHN", PBS America
-https://pbs-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="Movie" tvg-id="CHN" tvg-name="CHN", SONY PIX
-https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
+http://iptv12k.com:35461/8022022301/468985/1824
 
 #EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movie",Thrill
 http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
 
 #EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Movie",Warner TV
-#https://bukankaleng.co/live/d43az/1631981527/83.ts
-#https://cdn6.goprimetime.info/feed/202105171329/LC26/index.m3u8
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745733
-
-#EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCJHlIMV-5avD6si8KFJc3dWBAuxKU-FONYw&usqp=CAU" group-title="Movie",&Flix
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
-
-#EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwNiBy3f3Ns8DFnyAIn_hab74Y2vQPH02taw&usqp=CAU" group-title="Movie",&Prive
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK2xD8sMCO7vaN1G4G6x_48kaYAgOqzQVWYA&usqp=CAU" group-title="Movie",Lotus Macau
-https://cdn6.goprimetime.info/feed/202105171329/LC41/index.m3u8
+http://iptv12k.com:35461/8022022301/468985/182
 
 #EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png" group-title="Movie",CCM
-#https://bukankaleng.co/live/d43az/1631981527/119.ts
-http://210.210.155.35/qwr9ew/s/s31/index.m3u8
+http://iptv12k.com:35461/8022022301/468985/249
 
 #EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movie",Celestial Movies
-http://45.126.83.51/dr9445/h/h14/01.m3u8
+http://iptv12k.com:35461/8022022301/468985/250
 
 
 ************************************ KNOWLEDGE **********************************
