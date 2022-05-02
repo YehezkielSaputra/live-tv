@@ -3,53 +3,49 @@
 
 ************************************ NEWS **********************************
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073533638c35.png" group-title="News" tvg-id="518" tvg-name="518",ABC Australia
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_43.m3u8
+http://iptv12k.com:35461/8022022301/468985/592
 
 #EXTINF:-1 tvg-id="" tvg-name="Aljazeera EN" tvg-logo="https://mncvision.id/userfiles/image/channel/aljazeera.png" group-title="News",Aljazeera
-http://playlist.urfan.web.id/qwr9ew/s/s17/01.m3u8
+http://iptv12k.com:35461/8022022301/468985/2151
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiROS1B-NgSh2_h71UvrK1cYKszzZgZihQg&usqp=CAU" group-title="News",ASTRO AWANI
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+http://iptv12k.com:35461/8022022301/468985/724
 
 #EXTINF:-1 tvg-id="" tvg-name="BBC World News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/150px-BBC_World_News_2019.svg.png" group-title="News",BBC World News
-http://103.47.132.165/PLTV/88888888/224/3221227171/2.m3u8
+http://iptv12k.com:35461/8022022301/468985/187
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/422_144.png" group-title="News" tvg-id="517" tvg-name="517",Bloomberg
-#https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-http://103.47.132.164/PLTV/88888888/224/3221227269/index.m3u8
+http://iptv12k.com:35461/8022022301/468985/1361
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title="News",CGTN
-http://live.cgtn.com/1000/prog_index.m3u8
+http://iptv12k.com:35461/8022022301/468985/3213
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/220px-CGTN.png" group-title="News",CGTN Documentary
-http://playlist.urfan.web.id/qwr9ew/s/s20/01.m3u8
+http://iptv12k.com:35461/8022022301/468985/294
 
 #EXTINF:-1 tvg-id="" tvg-name="Channel News Asia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png" group-title="News",Channel News Asia
-#http://210.210.155.35:80/session/f902238c-d81b-11eb-8981-c81f66f89318/uq2663/h/h29/01.m3u8
-#http://103.47.132.164/PLTV/88888888/224/3221227103/04.m3u8
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+http://iptv12k.com:35461/8022022301/468985/4036
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cnn_logo_red_background.png/200px-Cnn_logo_red_background.png" group-title="News",CNN International
-#https://bukankaleng.co/live/d43az/1631981527/150.ts
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+http://iptv12k.com:35461/8022022301/468985/1364
 
 #EXTINF:-1 tvg-id="" tvg-name="Aljazeera EN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ_hu1puzfcR_F0QguVtPUk2bb7n78_27isw&usqp=CAU" group-title="News",EuroNews
-http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
+http://iptv12k.com:35461/8022022301/468985/2143
 
 #EXTINF:-1 tvg-id="" tvg-name="DW TV Asia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png" group-title="News",DW TV Asia
-http://playlist.urfan.web.id/qwr9ew/s/s26/01.m3u8
+http://iptv12k.com:35461/8022022301/468985/622
 
 #EXTINF:-1 tvg-logo="https://www.bark.us/blog/wp-content/uploads/2019/04/Fox-news-logo.png" group-title="News" tvg-id="FoxNews.us" tvg-name="FoxNews.us",Fox News
-http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+http://iptv12k.com:35461/8022022301/468985/1270
 
 #EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png" group-title="News",France 24
-http://playlist.urfan.web.id/qwr9ew/s/s22/01.m3u8
+http://iptv12k.com:35461/8022022301/468985/2148
 
 #EXTINF:-1 tvg-id="" tvg-name="Russia Today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/a/a0/20160830052851%21Russia-today-logo.svg/120px-Russia-today-logo.svg.png" group-title="News",Russia Today
 http://103.47.132.164/PLTV/88888888/224/3221227275/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/155_144.png" group-title="News" tvg-id="514" tvg-name="514",Sky News
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745703
+http://iptv12k.com:35461/8022022301/468985/591
 
 
 ************************************ MOVIE **********************************
