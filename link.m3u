@@ -53,7 +53,7 @@ http://iptv12k.com:35461/8022022301/468985/591
 #EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="Movie",AXN
 http://iptv12k.com:35461/8022022301/468985/180
 
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Extreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Rock_Extreme.png" group-title="Movie",Rock Extreme
+#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Extreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="Movie",Rock Extreme
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="Movie",Cinema World
@@ -107,53 +107,49 @@ http://iptv12k.com:35461/8022022301/468985/249
 #EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movie",Celestial Movies
 http://iptv12k.com:35461/8022022301/468985/250
 
+#EXTINF:-1 tvg-id="" tvg-name="[TW] 卫视电影台scm" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/Star_chinese_movies_2012.png" group-title="Movie",SCM Taiwan
+http://iptv12k.com:35461/8022022301/468985/1258
 
 ************************************ KNOWLEDGE **********************************
 
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Animal Planet HD" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/channel-logo-animal-planet-1.png" group-title="Knowledge",Animal Planet
-http://103.47.132.164/PLTV/88888888/224/3221227173/index.m3u8
+http://iptv12k.com:35461/8022022301/468985/2064
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DAr3T2Z.png" group-title="Knowledge",Crime Investigation
-http://103.47.132.164/PLTV/88888888/224/3221227341/02.m3u8
+http://iptv12k.com:35461/8022022301/468985/634
 
 #EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Knowledge",BBC Earth
-#http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
-#https://bukankaleng.co/live/d43az/1631981527/75.ts
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745764
+http://iptv12k.com:35461/8022022301/468985/2062
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1024px-Discovery_Asia_logo.svg.png" group-title="Knowledge",Discovery Asia
-http://rec2.distv.net:80/aurora/123456/132
+http://iptv12k.com:35461/8022022301/468985/2063
 
 #EXTINF:-1 tvg-id="DiscoveryAsia.my" tvg-name="Discovery Channel HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="Knowledge",Discovery Channel
-http://rec2.distv.net:80/aurora/123456/137
+http://iptv12k.com:35461/8022022301/468985/1650
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/200px-Discovery_Science_2017_Logo.svg.png" group-title="Knowledge",Discovery Science
-http://rec2.distv.net:80/aurora/123456/134
+http://iptv12k.com:35461/8022022301/468985/628
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="Knowledge",Discovery Turbo
-http://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
+http://iptv12k.com:35461/8022022301/468985/5389
 
 #EXTINF:-1 tvg-id="ABC.au" tvg-name="History FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="Knowledge",History
-http://103.47.132.164/PLTV/88888888/224/3221227335/03.m3u8
+http://iptv12k.com:35461/8022022301/468985/2065
 
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="Knowledge",Love Nature 4K
-http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
+http://iptv12k.com:35461/8022022301/468985/2069
 
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhtKISfM3OvdLbEFRv28kS-orYVUMWSRVsyQ&usqp=CAU" group-title="Knowledge",Nat Geo
-http://stream.tvtap.live:8081/live/us-natgeo.stream/chunks.m3u8
+http://iptv12k.com:35461/8022022301/468985/2066
+
+#EXTINF:-1 tvg-id="" tvg-name="[ID] NatGeo Wild id 8k indo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="Knowledge",[ID] Nat Geo Wild
+http://iptv12k.com:35461/8022022301/468985/2067
 
 #EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Smithsonian_Channel.png/220px-Smithsonian_Channel.png" group-title="Knowledge",Smithsonian Channel
-https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
+http://iptv12k.com:35461/8022022301/468985/1791
 
-#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png" group-title="Knowledge",DaAi Taiwan
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png" group-title="Knowledge",DaAi 1
-https://pulltv3.wanfudaluye.com/live/tv3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png" group-title="Knowledge",DaAi 2
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png" group-title="Knowledge",DaAi
+http://iptv12k.com:35461/8022022301/468985/1792
 
 ************************************ CARTOON **********************************
 
@@ -384,6 +380,9 @@ http://iptv12k.com:35461/8022022301/468985/1287
 
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png" group-title="China",TVBS
 http://iptv12k.com:35461/8022022301/468985/1271
+
+#EXTINF:-1 tvg-id="" tvg-name="[TW] 衛視中文 HD Star Chinese Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b0/Star_Chinese_Channel_20161218.png" group-title="China",Star Chinese Channel
+http://iptv12k.com:35461/8022022301/468985/1257
 
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrC5995pAWSj0eu2bwz2o6F29k4sgkG6RkgQ&usqp=CAU" group-title="China", Xing Kong
 http://iptv12k.com:35461/8022022301/468985/2101
