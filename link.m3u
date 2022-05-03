@@ -147,6 +147,9 @@ http://axcestv.vip:8080/live/freeview/axcestv/681.ts
 #http://iptv12k.com:35461/8022022301/468985/250
 http://axcestv.vip:8080/live/freeview/axcestv/680.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="[TW] 卫视电影台scm" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/Star_chinese_movies_2012.png" group-title="Movie",SCM
+http://kunyak.my.id/us/starcm.m3u8?by=iptv_id
+
 #EXTINF:-1 tvg-id="" tvg-name="[TW] 卫视电影台scm" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/Star_chinese_movies_2012.png" group-title="Movie",SCM Taiwan
 #http://iptv12k.com:35461/8022022301/468985/1258
 http://axcestv.vip:8080/live/freeview/axcestv/683.ts
