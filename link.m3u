@@ -382,6 +382,7 @@ http://iptv12k.com:35461/8022022301/468985/2100
 
 #EXTINF:-1 tvg-id="" tvg-name="Zhejiang" tvg-logo="https://www.tvchinese.net/uploads/tv/zjgj.jpg" group-title="China",Zhejiang
 http://iptv12k.com:35461/8022022301/468985/1316
+http://axcestv.vip:8080/live/freeview/axcestv/971.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Phoenix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpXXV3vZDP_-M_itIkkGysxDXZZB42Y48aVQ&usqp=CAU" group-title="China",Phoenix
 http://iptv12k.com:35461/8022022301/468985/1822
@@ -547,12 +548,15 @@ http://iptv12k.com:35461/8022022301/468985/688
 
 #EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="Sport",Astro Supersport 1
 http://iptv12k.com:35461/8022022301/468985/656
+http://axcestv.vip:8080/live/freeview/axcestv/984.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="Sport",Astro Supersport 2
 http://iptv12k.com:35461/8022022301/468985/655
+http://axcestv.vip:8080/live/freeview/axcestv/985.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="Sport",Astro Supersport 3
 http://iptv12k.com:35461/8022022301/468985/654
+http://axcestv.vip:8080/live/freeview/axcestv/986.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="Sport",Astro Supersport 4
 http://iptv12k.com:35461/8022022301/468985/653
@@ -565,9 +569,11 @@ http://iptv12k.com:35461/8022022301/468985/4799
 
 #EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXoRtRyb1bA1lnvf4MjvrNVYnSkUdkbXvVdw&usqp=CAU" group-title="Sport",BeIn 1
 http://iptv12k.com:35461/8022022301/468985/960
+http://axcestv.vip:8080/live/freeview/axcestv/973.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq731-tNqcQ6nSs1GTAt6OKPKRKa0LMOR1nQ&usqp=CAU" group-title="Sport",BeIn 2
 http://iptv12k.com:35461/8022022301/468985/961
+http://axcestv.vip:8080/live/freeview/axcestv/974.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest?cb=20201108180658" group-title="Sport",BeIn Xtra
 http://iptv12k.com:35461/8022022301/468985/963
