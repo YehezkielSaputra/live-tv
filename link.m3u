@@ -538,7 +538,7 @@ http://iptv12k.com:35461/8022022301/468985/4035
 http://iptv12k.com:35461/8022022301/468985/4033
 
 #EXTINF:-1 tvg-id="" tvg-name="tv8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png" group-title="Malaysia",TV 8
-http://iptv12k.com:35461/8022022301/468985/738
+#http://iptv12k.com:35461/8022022301/468985/738
 http://axcestv.vip:8080/live/freeview/axcestv/629.ts
 
 ************************************ SPORT **********************************
