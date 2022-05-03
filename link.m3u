@@ -529,10 +529,12 @@ http://iptv12k.com:35461/8022022301/468985/707
 http://axcestv.vip:8080/live/freeview/axcestv/668.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Channel8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFXNfHpmzt1IUCY7wdYo-qFetELz2mlf-p4g&usqp=CAU" group-title="Malaysia",Channel 8
-http://iptv12k.com:35461/8022022301/468985/4034
+#http://iptv12k.com:35461/8022022301/468985/4034
+http://axcestv.vip:8080/live/freeview/axcestv/859.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Channel5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Mediacorp_Channel_5.jpg/220px-Mediacorp_Channel_5.jpg" group-title="Malaysia",Channel 5
-http://iptv12k.com:35461/8022022301/468985/4035
+#http://iptv12k.com:35461/8022022301/468985/4035
+http://axcestv.vip:8080/live/freeview/axcestv/858.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ChannelU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCPU2r4N_RQ6_c-q73AAuNFlao08iWaGov-A&usqp=CAU" group-title="Malaysia",Channel U
 http://iptv12k.com:35461/8022022301/468985/4033
